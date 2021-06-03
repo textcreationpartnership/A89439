@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The mystery of the good old cause briefly unfolded. In a catalogue of such members of the late Long Parliament, that held offices both civil and military, contrary to the self-denying ordinance hereunto annexed. Together with the summes of money and lands which they divided among themselves during their sitting, (at least such as was dispos'd of publickly.) Also a list of such aldermen and Common-Council-men, and others, as made profit by the continuance of the war, excise, taxes and oppressive proceedings of that Parliament.</title>
+         </titleStmt>
+         <extent>Approx. 105KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89439</idno><idno type="EEBO-CITATION">99863066</idno>
+  <idno type="VID">115248</idno>
+  <idno type="EEBO-PROQUEST">2240953700</idno>
+  
+            <idno type="STC">Wing M3191</idno>
+            <idno type="STC">Thomason E1923_2</idno>
+            <idno type="STC">ESTC R236101</idno>
+            <idno type="PROQUEST">99863066</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99863066e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89439)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115248)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 239:E1923[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The mystery of the good old cause briefly unfolded. In a catalogue of such members of the late Long Parliament, that held offices both civil and military, contrary to the self-denying ordinance hereunto annexed. Together with the summes of money and lands which they divided among themselves during their sitting, (at least such as was dispos'd of publickly.) Also a list of such aldermen and Common-Council-men, and others, as made profit by the continuance of the war, excise, taxes and oppressive proceedings of that Parliament.</title>
+               </titleStmt>
+               <extent>[6], 56, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the first yeare of Englands liberty, after almost twenty years of slavery. 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Variant (probably earlier): quire A and parts of quires C and D in another setting; "Liberty" in imprint has italic L.</note>
+                  <note>Annotation on Thomason copy: "July".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Controversial literature --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115248:1"/>
+            <p>THE MYSTERY Of the Good old Cause Briefly unfolded.</p>
+            <p>In a Catalogue of such Members of the late Long Parliament, that held Offices both Civil and Military, contrary to the Self-denying Ordinance hereunto annexed.</p>
+            <p>Together with The Summes of Money and Lands which they divided among themselves during their sitting, (at least such as was dispos'd of publickly.)</p>
+            <p>ALSO A List of such Aldermen and Common-Council-men, and others, as made profit by the continuance of the War, Excise, Taxes, and oppressive Proceedings of that Parliament</p>
+            <q>
+               <l>Quò non mortalia pectora cogit.</l>
+               <l>Auri sacra fames? —</l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the first yeare of <hi>Englands</hi> Liberty, after almost twenty years slavery. 1660.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:115248:2"/>
+            <pb facs="tcp:115248:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Suppose all but such as wilfully shut their own eyes against the greatest evi<g ref="char:EOLhyphen"/>dence in the world, are long since con<g ref="char:EOLhyphen"/>vinced what the designs, aimes, inte<g ref="char:EOLhyphen"/>rests, projects of the Ring-leaders in the late long Parliament were in involving these Nations in a miserable and destructive War. Their pretences were no doubt the most specious and plausi<g ref="char:EOLhyphen"/>ble that could be imagined, <hi>Defence of Religion,</hi> and <hi>the Subjects Freedom;</hi> but alas! never were these things more <hi>pretended</hi> to, and lesse in <hi>reality</hi> designd; greatness, wealth and command were the inducements to the most hypocritical persons in the world to pro<g ref="char:EOLhyphen"/>fane the name of God by calling their cursed <hi>ambiti<g ref="char:EOLhyphen"/>on</hi> his <hi>Cause,</hi> to murder so many innocent persons both by the civil and military sword, to ruine so many no<g ref="char:EOLhyphen"/>ble families by depriving them of the subsistance left them for many years from their ancestors, and at length, as the top of all wickednesse (having by the divine permission defeated the forces of their Sove<g ref="char:EOLhyphen"/>raign) to murder him under the pretence of Iustice, for a Tyrant; when as it were no hard matter to make it good against any gain sayer whatsoever, that no Nation un<g ref="char:EOLhyphen"/>der the Sun lived more happily and freely then we, during the reign of that most excellent and religious King; nor any more miserably and slavishly then since his death. The following Catalogue will present the perusers with an account of some of the late <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi>
+               <pb facs="tcp:115248:3"/>mens advantages by our miseries, fairly and as far as possible, truely collected. It must not be expected to find all those mentioned here whose hands have been filled at the price of many thousand mens blood and destruction; nor is it to be thought, that those that are mentioned, got no more then what they are said to have gotten in this Catalogue. For such off<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cers as were not of the House are partly omitted, though they had their share in the spoile, and got Palaces and great Estates of Noble men and others as a reward of their fidelity to the enslavers of their Country and the Members divided, &amp; got vast sums of mony in the dark and connived at one anothers cheating of the Publick. Otherwise, what became of those incredible sums raised by sale of the revenue of the King, Bishops, Delin<g ref="char:EOLhyphen"/>quents, compositions, excise, horrible and oppresive taxes, whereas their common souldiers were paid after the most sordid and dishonorable way that ever was heard of, for being unable to double their arrears and purchase lands, they were inforced to sell them at ex<g ref="char:EOLhyphen"/>treme inconsiderable rates to their false and abomi<g ref="char:EOLhyphen"/>nable masters the Members of <hi>Parliament.</hi> All which being considered it will be no wonder they were so loath to dissolve, and unwilling to heare of another repre<g ref="char:EOLhyphen"/>sentative. Which God be thanked, is at length assem<g ref="char:EOLhyphen"/>bled together with the House of Peers and the Kings most excellent Majesty, whose counsels and purposes Almighty God prosper and bless; but let distructi<g ref="char:EOLhyphen"/>on be the reward of our destroyers, let the pray be torn out of their teeth, let the blood they have shed fall upon their own heads, and let their names be detested and infamous to all pesterity.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115248:3"/>
+            <head>A The Names of such Members of the House of Commons, as held Offices both Civil and Military, contrary to that their self-denying Ordinance of <hi>April</hi> 3. 1645.</head>
+            <head type="sub">
+               <hi>Together with</hi> Such sums of Money, and Lands which they have divided and given amongst them<g ref="char:EOLhyphen"/>selves during their sitting, at least what was disposed of, by them publikely.</head>
+            <argument>
+               <p>
+                  <hi>Note that such as have this mark * before their Names were Recruters of that Long-Parli<g ref="char:EOLhyphen"/>ament, and illegally chosen, and those of them that were the Kings Judges have this mark.</hi> ☞.</p>
+            </argument>
+            <p>
+               <hi>WIlliam Alenson</hi> Kt. Alderman of <hi>York,</hi> was made Clark of the Hamper, a place worth 1000 <hi>l. per annum,</hi> had <hi>Crable</hi> Castle worth 600 <hi>l. per an.</hi> once the Bishop of <hi>Yorks,</hi> and hath purcha<g ref="char:EOLhyphen"/>sed a vast revenue of Bishops Lands at easie rates.</p>
+            <p>
+               <hi>John Asbe,</hi> a West-Countrey-Clothier, and in<g ref="char:EOLhyphen"/>deed a ravenous Wolf<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in Sheeps clothes, who for a long time together had the shearing and flee<g ref="char:EOLhyphen"/>cing of the royal flock. He had given him out of the noble Mr. <hi>Coventries</hi> estate 4000 l. out of Sir <hi>Edward Moseleys</hi> 1000 l. out of Mr. <hi>Edward Philips</hi> 1200 l. out of Sir <hi>John Stowels</hi> 8000 l. and as a Corollary of all, was many years Chairman of Goldsmiths Hall.</p>
+            <pb facs="tcp:115248:4"/>
+            <p>*☞ <hi>Francis Allen</hi> a Goldsmith at S. <hi>Dunstans</hi> in Fleet street, father in Law, and first bringer of <hi>John Barkstead</hi> into play; and brother to Deputy <hi>Alleyn</hi> of little Brittain, a Painter stainer had <hi>Croune</hi>-house.</p>
+            <p>☞ <hi>John Alured</hi> Col. and one of his Soveraigns Judges, and a constant Rumper.</p>
+            <p>
+               <hi>Thomas Atkins,</hi> freeman of <hi>London,</hi> but Factor of <hi>Norwich,</hi> of which County there being a gene<g ref="char:EOLhyphen"/>ral muster upon the <hi>Scots</hi> Invasion, and the said <hi>Atkins</hi> being a factious Abetter of that Invasion, appear'd at the Muster by his Deputy in very bad Armes, and being sent for, and cained or cudg<g ref="char:EOLhyphen"/>elled by the Lord <hi>Maltrevers,</hi> then Lieutenant of the County; he took so much grief by that dis<g ref="char:EOLhyphen"/>grace, that he came to <hi>London,</hi> and in the heat of those troubles crowded in, and by degrees grew up an Alderman, was Treasurer at Warre, and an active person in the long Parliament, a great Re<g ref="char:EOLhyphen"/>verencer of the Rump, and that rather to justifie the Story that depends on his own.</p>
+            <p>
+               <hi>Edward Ash</hi> Woollen-Draper, Treasurer for providing of clothes for the Irish Souldiers.</p>
+            <p>
+               <hi>William Aiscough</hi> Captain of a Troop of Horse.</p>
+            <p>
+               <hi>William Armyne</hi> Knight, Agent in <hi>Scotland</hi> for the State, a factious wicked one in his way.</p>
+            <p>
+               <hi>William Armyne</hi> Colonel.</p>
+            <p>
+               <hi>Ashurst</hi> went a Commissioner into <hi>Scotland,</hi> had the Clerk of the Peace place for <hi>Lancashire,</hi> and a 1000 li. in money given him.</p>
+            <p>☞ <hi>John Bradshaw</hi> Serjeant of the Law, Lord President of the High Court of Injustice, and Pre<g ref="char:EOLhyphen"/>sident of the Council of State: There was given him besides the Earl of St. <hi>Albans</hi> Mannor of Sum<g ref="char:EOLhyphen"/>mer-Hill
+<pb n="3" facs="tcp:115248:4"/>in <hi>Kent,</hi> worth 1500 l. <hi>per annum;</hi> the Lord <hi>Cottingtons</hi> estate, called <hi>Fante-Hill</hi> in <hi>Wilt<g ref="char:EOLhyphen"/>shire,</hi> his Mannor of <hi>Hanworth</hi> near <hi>Hounslow</hi> in <hi>Middlesex,</hi> and the Deans House at the Colledg at <hi>Westminster:</hi> He was one of the Iudges of the She<g ref="char:EOLhyphen"/>riffs Court in <hi>Guildhal London,</hi> and Justice of the County Palatine of <hi>Chester.</hi> After the most noto<g ref="char:EOLhyphen"/>rious villanies that ever were committed for the keeping up a tail of a Parliament in perpetual pow<g ref="char:EOLhyphen"/>er, he saw it interrupted for almost six yeares to<g ref="char:EOLhyphen"/>gether, and at length died, during the last inter<g ref="char:EOLhyphen"/>ruption of it by <hi>Lambert.</hi>
+            </p>
+            <p>
+               <hi>Edward Bishe</hi> Garter-Herald, in Sir <hi>Edward Wal<g ref="char:EOLhyphen"/>kers</hi> place, worth 3 or 400 l. <hi>per an.</hi> an honest man. <hi>James Berry,</hi> who for his person is so contemptible, that you would sware he looks like <hi>Iudas</hi> in <hi>Ar<g ref="char:EOLhyphen"/>ras</hi> hangings. He was a Collier, became a Colonel, a terrible Major-General, a combinator against his Masters sonne <hi>Dick,</hi> and one of the Com<g ref="char:EOLhyphen"/>mittee of Safety.</p>
+            <p>
+               <hi>John Bond,</hi> Sonne to <hi>Dennis Bond,</hi> a Parliament man, made Master of <hi>Trinity</hi>-Hall in <hi>Cambridge,</hi> which Mr. <hi>Selden</hi> refused to accept of.</p>
+            <p>
+               <hi>Nathaniel Bacon,</hi> given him 3000 l. afterwards Master of the Requesis to the <hi>Cromwells,</hi> during the greatest part of their Usurpation, his salary for which was 500 l. <hi>per Annum,</hi> and 'tis likely would be in the same office, for whomsoever would pay him the same wages.</p>
+            <p>Sir <hi>William Brereton,</hi> as Mr. <hi>Cleavland</hi> hath it, a notable man at a thanksgiving dinner, having ter<g ref="char:EOLhyphen"/>rible long teeth, and a prodigious stomach, to turn the Arch-bishops Chappel of <hi>Croyden</hi> into a
+<pb n="4" facs="tcp:115248:5"/>Kit<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen. Also to swallow up that Palace and Lands at a Morsel. He was once Colonel, and a petty General of <hi>Cheshire.</hi> He had the Sequestra<g ref="char:EOLhyphen"/>tion of <hi>Casiaberry,</hi> and other Lands of the noble Lord <hi>Capel,</hi> to the value of 2000 l. <hi>per Annum,</hi> a snivling Coward, and a sneaking Rumper.</p>
+            <p>☞ <hi>Io. Blakestone,</hi> a Shopkeeper in <hi>Newcastle,</hi> was Executor to the Executor of Sir <hi>Io. Farmer,</hi> trusted with 6000 l. for charitable uses, and was sued in Chancery to perform the trust, but got himself return'd a Burgesse for <hi>Newcastle,</hi> by the Scotish Garrison there, had 3000 l. given him out of the Marquesse of <hi>Newcastles,</hi> and the Lord <hi>Wi<g ref="char:EOLhyphen"/>theringtons</hi> estates, in compensation of the losse of his Pedlers ware in his shop, he had formerly gi<g ref="char:EOLhyphen"/>ven him 14000 l. and 560 l. was given to his bro<g ref="char:EOLhyphen"/>ther <hi>Iohn,</hi> as was made appear before a Committee, whereof Mr. <hi>Sandis</hi> of the Temple was Chai<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-man, he had also a Cole-meters place worth 200 l. <hi>per Annum.</hi> and the Bishop of <hi>Durhams</hi> Castle at <hi>Dur<g ref="char:EOLhyphen"/>ham,</hi> and lands of great value, and one of the Kings Iudges.</p>
+            <p>
+               <hi>John Birch,</hi> of <hi>Herefordshire,</hi> a Colonel, who carried himself fairly to compasse so great an e<g ref="char:EOLhyphen"/>state. He was one while for a Commonwealth, till upon better illumination he detested his error, became and so continues very Monarchical, and was one of the Secluded Members.</p>
+            <p>
+               <hi>Godfrey Boswel</hi> Colonel.</p>
+            <p>
+               <hi>Richard Browne,</hi> Major General and Governour of <hi>Abington,</hi> was afterwards persecuted for design<g ref="char:EOLhyphen"/>ing to secure the City of <hi>London,</hi> when <hi>Fairfax</hi> by the Command of his Lieutenant General <hi>Cromwel,</hi>
+               <pb n="5" facs="tcp:115248:5"/>marcht with his Army against the City, the chief<g ref="char:EOLhyphen"/>est occasion and in<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et of all our woes. He was im<g ref="char:EOLhyphen"/>prisoned for the most part of the <hi>Rumps</hi> and <hi>Oli<g ref="char:EOLhyphen"/>vers</hi> Tyranny, and hath manifested himself both by his actings and sufferings, a cordial lover both of his Prince and Countrey, and hath bin a very active instrument for the good of these King<g ref="char:EOLhyphen"/>domes.</p>
+            <p>
+               <hi>Iohn Bingham</hi> of <hi>Dorset,</hi> son-in-law to Mr. <hi>Iohn Trenchard,</hi> Governour first of <hi>Pool,</hi> and lastly of <hi>Iersey,</hi> helpt his estate well, and having bin a Co<g ref="char:EOLhyphen"/>lonel of Horse, and Foot, and had 1000 l. given him.</p>
+            <p>
+               <hi>John Brown</hi> married Sir <hi>Thomas Trenchards</hi> Si<g ref="char:EOLhyphen"/>ster, a petty Committe<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-man, seised 1000 l. of the stock and goods of <hi>Farmer Wades</hi> in <hi>Portland,</hi> whom though the Committee acquitted of Malig<g ref="char:EOLhyphen"/>nancy, yet could not his goods (being in the hands of a Member be re-delivered, so they are Mali<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nant still, and secured in Mr. <hi>Browns</hi> hands.</p>
+            <p>
+               <hi>Dennis Bond</hi> a wooller-Draper, he acted by his Trustees, his sons and brother; one son he made Master of <hi>Trinity</hi>-Hall in <hi>Cambridge,</hi> another Au<g ref="char:EOLhyphen"/>ditor of the Excise, worth 500 l. per Annum, and his brother Governour of <hi>Portland,</hi> Receiver of the Kings Rents in <hi>Southhampton</hi> and <hi>Somerset.</hi>
+            </p>
+            <p>
+               <hi>John Bell</hi> Apothecarie to the body Politick, hath as l<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ttle given him as he deserves in honest times, but to preserve the priviledge of the House is protected for what he can get. He was a Trustee for the poor at <hi>Westminster,</hi> Receiver of Mr. <hi>Anthrobus</hi> and others money for the Poor, was sued for an account; said, he could not answer without breach of Priviledg
+<pb n="6" facs="tcp:115248:6"/>of Parliament, and that he durst not; by which means Parliament-men then were the surest kee<g ref="char:EOLhyphen"/>pers of Trust.</p>
+            <p>
+               <hi>Thomas Boon,</hi> a single-ey'd Gentleman, formerly forsooth a Tapster, and at present one of the Ple<g ref="char:EOLhyphen"/>nipotentiaries for the reconciling the two Nor<g ref="char:EOLhyphen"/>thern Kings <hi>Denmark</hi> and that of <hi>Swede,</hi> had 6000 <hi>l.</hi> given him, a cruel Committee-man, that licked his fingers, and hath got a vast estate.</p>
+            <p>
+               <hi>Richard Barreys</hi> Colonel, Governour of <hi>Car<g ref="char:EOLhyphen"/>lisle.</hi>
+            </p>
+            <p>
+               <hi>Francis Bacon</hi> Recorder of <hi>Ipswitch</hi> in the place of Requests to both the Protectors, for the same salary with his brother.</p>
+            <p>* Sir <hi>Thomas Barnardiston</hi> Colonel.</p>
+            <p>* <hi>Robert Blake</hi> Colonel, Governour of <hi>Tawnton,</hi> and one of the Admirals of <hi>England.</hi>
+            </p>
+            <p>☞ <hi>Daniel Blagrave,</hi> a Councellor at Law, a great Committee-man, Steward of <hi>Reading,</hi> and was made Treasurer of the said County, had given him the Exegenters office of the Common-pleas, worth 500 l. per annum. He bought the Kings fee Farme of the great Mannor of <hi>Sunning</hi> in <hi>Barkshire:</hi> and other Estates at very easie rates Master extraor<g ref="char:EOLhyphen"/>dinary in <hi>Chancery.</hi> A constant Rumper, and one of his Majesties most cruel Judges. A great per<g ref="char:EOLhyphen"/>secutor of the Ministers of <hi>Reading,</hi> or else they slander him, which is very hardly possible.</p>
+            <p>☞ <hi>Oliver Cromwel.</hi> This Scourge of God was in the beginning of these troubles a man of no considerable fortune. There are Letters of his to be seen in the hands of a person of qualitie, wherein he mentions his whole estate to
+<pb n="7" facs="tcp:115248:6"/>amount to about 1300 l. which at that time he intended to lay out upon a purchase of drained Fen-lands. He pass'd through the several degrees of Military command, till he was advanc'd to be General of the Army, during which time he re<g ref="char:EOLhyphen"/>ceived great gifts out of estates of the Dukes of <hi>Buckingham,</hi> the Lord <hi>Francis Villers,</hi> the Mar<g ref="char:EOLhyphen"/>quesse of <hi>Worcesters</hi> estate, worth 5 or 6000 l. per annum, and others, besides great summs of money at several times, and as 'tis said for some years the whole Revenue of near all the benefices in <hi>Wales,</hi> imploying foure itinerant Teachers to coast about that Country for 100 l. per an. a man, &amp; took occa<g ref="char:EOLhyphen"/>sion to dissolv the Rump of the long Parliament, just as they were going to call for the accounts of that money, which amounted to a vast summe. One would have thought all this with the Generals pay might have satisfi'd such a mans appetite, whose be<g ref="char:EOLhyphen"/>ginning was someane; but having projected great<g ref="char:EOLhyphen"/>nesse and Soveraignty to himself, from the begin<g ref="char:EOLhyphen"/>ning he waded to it through the blood of his na<g ref="char:EOLhyphen"/>tural Prince, and great numbers of his fellow Sub<g ref="char:EOLhyphen"/>jects, and made himself supream Governour of these Nations under the Title of Protector; which Power he held with much oppression, dissimulation, hypocrisie, and bloodshed for about five years, when God cut him off before he had well provided, for the establishment of his Son in the Succession. His Funeral was solemnised with great pomp, they say to the expence of 30000 l. which is yet unpaid. He spent a vast deal of Treasure to maintaine his Tyranny. But he is gone to his own place, and let his memorie be accursed for ever.</p>
+            <pb n="8" facs="tcp:115248:7"/>
+            <p>
+               <hi>John Desborough,</hi> a man of very mean extracti<g ref="char:EOLhyphen"/>on and estate, being a poor Farmer in the Coun<g ref="char:EOLhyphen"/>trey, but upon marriage of <hi>Cromwells</hi> Sister grew up a Colonel, after Admiral of Sea, and hugely em<g ref="char:EOLhyphen"/>proved in his estate, yet for all this was one of those that combined to dethrone his Nephew <hi>Richard,</hi> and became himself one of the Committee of Safety, a perfect Clown, and a prodigious example of Ingra<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>titude.</p>
+            <p>☞ <hi>Miles Corbet</hi> by some nick-named the Jew, either for his rueful looks, or rigid nature, at the beginning of this Parli<g ref="char:EOLhyphen"/>ament a man of small Estate, made one of the Re<g ref="char:EOLhyphen"/>gisters in Chancery, worth 700 l. per annum. And hath mony in his purse, and was ten times one of the Commissioners in <hi>Ireland,</hi> worth what he will per an. and one of the Kings Iudges, and a Rumper.</p>
+            <p>Sir <hi>Iohn Clotworthy</hi> Treasurer for <hi>Ireland,</hi> and by the Army charged (I dare not say justly) with de<g ref="char:EOLhyphen"/>f<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>auding the State of 40000 l. which may be one reason why the King could never get an accompt of the money raised for the <hi>Irish,</hi> though he much desired it, he was one of the secluded members, and a long time imprisoned at <hi>Windsor.</hi>
+            </p>
+            <p>
+               <hi>Thomas Ceely</hi> much indebted, if not helpt out of Prison by the Parliament, and made Recorder of <hi>Bridgwater.</hi>
+            </p>
+            <p>☞ <hi>Gregory Clements</hi> Merchant in both senses, when he had been a Member two Moneths, prote<g ref="char:EOLhyphen"/>sted he had scarce cleered the purchase moneys which was but 60 l. but said trading he doubted not would mend. The same was one of the Kings Judges.</p>
+            <pb n="9" facs="tcp:115248:7"/>
+            <p>Sir <hi>Henry Cholmely,</hi> Col. of Horse, and once a zealous Commissioner of <hi>York-shire.</hi> Since he hath given some Testimonies of Loyalty.</p>
+            <p>
+               <hi>Robert Cecil,</hi> Sonne to the Earle of <hi>Salisbury,</hi> Col. of Horse, procure one <hi>Collings</hi> to be made Auditor in chief for the Revenues of the King, Queen, and Prince. worth 2000. l. per annum, but in trust for the Colonel.</p>
+            <p>Sir <hi>Anthony Ashly Cooper,</hi> a Collonel, since manifested his loyalty to his Prince very emi<g ref="char:EOLhyphen"/>nently.</p>
+            <p>☞ <hi>William Cunstable</hi> Knight and Barronet Collonel, and one of the Kings Judges, sold his Lands to Sir <hi>Marmaduke Langdall,</hi> For 20000 l. and had it given him again by the Parliament.</p>
+            <p>☞ Sir <hi>John Danvers</hi> Collonel, after the death of his Brother the Earl of <hi>Danby,</hi> he proved him to be a Malignant; and by Parliamentary proceed<g ref="char:EOLhyphen"/>ings endeavoured to overthrough his will, and out his Sister <hi>Gargrave,</hi> and Sir <hi>Peter Osb<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rne</hi> of the estate worth 30000 l. and to have it himself. And was one of the Kings Judges.</p>
+            <p>
+               <hi>Edmund Dunce</hi> Constable of <hi>Wallingford</hi> Ca<g ref="char:EOLhyphen"/>stle, husband to that fine Mistris <hi>Dunce,</hi> a great savorite of the Protector, and had a Patent to be a Lord of the Lord knows what, and how little he deserveth it, being but a very punurious and pinching Gentleman.</p>
+            <p>
+               <hi>Henry Darly Richard Darly</hi> Given to their Father for them 5000. l. A pair of zea<g ref="char:EOLhyphen"/>lous Rumpers; the former was extream active in bringing in the Army of the Brethren of <hi>Scotland,</hi> to the ruine of his native Co<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>trey, both base.</p>
+            <pb n="10" facs="tcp:115248:8"/>
+            <p>
+               <hi>William Ellis</hi> Steward of <hi>Stepney,</hi> worth 200 l. per annum. And by him sold to one of the <hi>Temple:</hi> made haste to be rich, and was mighty thri<g ref="char:EOLhyphen"/>ving Committee-man during the late destructive Wars; he was afterwards Solicitor General to the two Protectors; He was very zealous for the ma<g ref="char:EOLhyphen"/>king of <hi>Oliver</hi> King; for which his good Lord made him Knight. He hath from nothing in a few years got an estate (supposed) worth 3000. <hi>per annum.</hi>
+            </p>
+            <p>Sir <hi>Walter Earle</hi> Colonel of Horse, and Lieu<g ref="char:EOLhyphen"/>tenant of the Ordnance in Sir <hi>John Heydons</hi> place, worth 1000. l. per annum in time of Peace, but in time of War worth 50000 l. per annum. He was by some termed the Parliaments Midwife, which whensoever it teemed with any monstrous or prodigious plots, his assistance was still invoked to help deliver and bring her abed.</p>
+            <p>
+               <hi>Thomas Earle</hi> sonne to Sir <hi>Walter,</hi> Captain of a Troop of Horse, seldom attended the House, but followed his businesse in the Countrey, where he was a great Committee-man, helping himself and friends.</p>
+            <p>* <hi>James Fenwick</hi> Captaine of a Troop of Horse.</p>
+            <p>
+               <hi>William Fenwick</hi> had but 500l. so small a summe deserves not a Christian name.</p>
+            <p>
+               <hi>Nathaniel Fines</hi> once Governour of <hi>Bristow,</hi> and thereby hangs a t<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yle: afterwards one of the Com<g ref="char:EOLhyphen"/>missioners of the Seal under <hi>Nol,</hi> and one of his Privy Council, but now his Lordship is gone.</p>
+            <p>☞ <hi>George Fleetwood</hi> of <hi>Buck.</hi> Colonel, and one of the primitive pros <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that Old Cause, a great
+<pb n="11" facs="tcp:115248:8"/>favourite of, and Knighted by <hi>Cromwell:</hi> a constant Rumper, and one of the Kings Judges.</p>
+            <p>* <hi>Charles Fleetwood,</hi> Collonel and Lord Deputy of <hi>Ireland.</hi> This pittifull Anabaptist was <hi>Olivers</hi> Son-in law, and upon that score advanced to be Lieutenant Generall of the Army for merit he never had any. In the dividing of the murther'd King's Inheritance, <hi>Woodstock</hi> and other rich pos<g ref="char:EOLhyphen"/>sessions fell to his share. About a year since, he with some other Officers ungratefully deth<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on'd Protector <hi>Richard,</hi> restor'd the Rump for a while, and then unroosted them again; after which du<g ref="char:EOLhyphen"/>ring the space of neer six weeks he acted King at <hi>Wallingford</hi>-house (one of his Pallaces) But the Rump coming to sit again, tender-hearted mock-Prince melted into tears, and his Hypocriticall vizard of Religion being pull'd off, he went off the stage ridiculously.</p>
+            <p>
+               <hi>John Goodwin</hi> the other Register in Chancery, worth 700 l. per annum.</p>
+            <p>Sir <hi>Gilbert Gerard</hi> pay Master to the Army had 3<seg rend="sup">d</seg> per pound allowed, worth 60000 l. And was Chancellour of the Dutchey worth 1200 l. per annum.</p>
+            <p>☞ <hi>John Carew</hi> of <hi>Cornwall,</hi> brother to Sir <hi>A<g ref="char:EOLhyphen"/>lexander Carew</hi> an imitator of his brothers antece<g ref="char:EOLhyphen"/>dent stubbornnesse, but not of his subsequent re<g ref="char:EOLhyphen"/>pentance, an itinerary Preacher or rather exorcist, a grand deluder of the Puritans by his turn-up<g ref="char:EOLhyphen"/>ey'd Sermons, and a painful promoter of the pen<g ref="char:EOLhyphen"/>temonarchical interest, an earnest enemy to the fourth Monarchy, and therefore the more easily
+<pb n="12" facs="tcp:115248:9"/>induced to be one of the Kings judicial mur<g ref="char:EOLhyphen"/>derers.</p>
+            <p>
+               <hi>John Maynard</hi> of <hi>D<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vonshire</hi> one of the severe prosecutors of the Earle of <hi>Strafford</hi> in the long Parliament, Serjeant at Law, a person of more eminent parts then piety, being as most of that fraternity are, very mercinary as to the selling his breath, and very avaritious as to the businesse of the world. He was much censured by his Friends for being of the Council of the Protector against Doctor <hi>Hewit,</hi> and Sir <hi>Henry Slingsby.</hi>
+            </p>
+            <p>Sir <hi>William Roberts</hi> a Gentleman that sled into <hi>Holland</hi> for fear of the Bishops, but when the War began he came over to fish in the troubled waters, and was made a great Committy-man whereby he much advanced his Estate and Interest, and be<g ref="char:EOLhyphen"/>ing in good soyle grew to be a great man; he quickly became a creature of <hi>Olivers,</hi> and was cal<g ref="char:EOLhyphen"/>led to be of <hi>Bair<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bones</hi> Parliament, and of the mock Parliaments since, and was of all the great Com<g ref="char:EOLhyphen"/>mittees, and had a Sallarie of 1000 l. <hi>per Annum.</hi> for his good services in promoting his Masters In<g ref="char:EOLhyphen"/>terest (which he did to the life) <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or which he ad<g ref="char:EOLhyphen"/>vanced him to be a Lord in his other House, and continued him Principal Commissioner in that most gainfull Committee for augmentations of Ministers maintenance, but it is hoped his Estate may afford some maintenance to others now.</p>
+            <p>
+               <hi>John Corbet</hi> a Lawyer and of the same culler with his name sake <hi>Miles Corbet</hi> within and without, both of the Protectors dye all over, he was of the Rump as long as it sat, and improved his Tallent as his betters had done before him.</p>
+            <p>
+               <hi>Gilbert Gerard,</hi> his second Sonne Cleark to
+<pb n="11" facs="tcp:115248:9"/>the Dutchy, and for whose benefit the Clark<g ref="char:EOLhyphen"/>ship of Assise of <hi>Norfolke</hi> is granted to Master <hi>Edward Gerard</hi> his Cozen, by the procurement of Sir <hi>Gilbert,</hi> and was worth 500 l. per an<g ref="char:EOLhyphen"/>num.</p>
+            <p>
+               <hi>Gyles Green</hi> the receiver of <hi>Yorkshire,</hi> being put out of his place, got it for his Sonne in Law; was Chareman for the Navy, and as for Sir <hi>Thomas Dawes</hi> his Estate, and what it was worth <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o him Sir <hi>Thomas</hi> his creditors will tell you, for they get nothing.</p>
+            <p>* <hi>Thomas Gell</hi> Leiutenant Coll. to Sir <hi>John Gell,</hi> made Recorder of <hi>Derby</hi> in Mr. <hi>Allestr<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yes</hi> place.</p>
+            <p>☞ <hi>Thomas</hi> Lord <hi>Gray</hi> of <hi>Groby,</hi> Collonel, and hath given to him the Queens Mannor house, Parke, and Lands at <hi>Holmby,</hi> also purchased a large part of the Lord <hi>Cravens</hi> Estate, particularly <hi>Coom Abbey</hi> judgeth worth 3000 l. per annum for an inconsiderable sum, and one of the Kings Judges.</p>
+            <p>* <hi>John Glyn,</hi> sometime a Counsellour at Law, and Steward of the Court at <hi>Westminster,</hi> one of the long Parliament, that helpt to bait the <hi>Worthy</hi> Earle of <hi>Strafford,</hi> and bring him to the Block, was Clerk of the <hi>Pettey</hi> Bag in Sir <hi>Edward Warders</hi> place, worth a 1000l <hi>per annum,</hi> he made his father-in-law, Mr. <hi>Squib Clarenceux</hi> Herald in Sir <hi>William Neves</hi> place, worth 400 l. <hi>per annum,</hi> and made his Creature and Kinsman <hi>Falconbridge,</hi> Comptrollar of the Excise, a place worth 500 li. <hi>per annum,</hi> as also a Receiver-General of the Kings, Queens and Princes Revenues, worth 2000 l. <hi>per annum,</hi> Mr. <hi>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lyn</hi> conferred on his Cousin <hi>Lawrence Sweenam</hi> the <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ine-Office, worth 300 l. <hi>per annum,</hi> and made
+<pb n="12" facs="tcp:115248:10"/>him Receiver of the first-fruits, worth 200 l. <hi>per ann.</hi> but Mr. <hi>Swedtnam</hi> dying he got both the places for his Brother in Law Bodardo, that they might not go out of the Tribe; he was made Recorder of <hi>London,</hi> and then being made a Serjeant at Law by agreement (as it is said) resigned to Mr. <hi>William Steel,</hi> and was made a Judge, and for his zeal in <hi>Conies</hi> case to advance the Protectors Will above the Law of the Land, and finding him so fit for his purpose, he sent him into the <hi>West</hi> (Chief Justice <hi>Bolls</hi> refusing) to arraign that valiant Gentleman Col. <hi>Penruddock,</hi> and the rest of those Gentlemen taken at <hi>South-Moulton</hi> in <hi>Devon,</hi> by Article-break<g ref="char:EOLhyphen"/>ing <hi>Crooke;</hi> for which good services, and his <hi>com<g ref="char:EOLhyphen"/>plying Principles</hi> to advance the Protector, he was made Lord Chief Justice of <hi>England,</hi> and no doubt behaved himself in the place as his Master would have him, by whom he was also made a Lord of his <hi>other</hi> House, but that and he fell with the Idoll <hi>Dick.</hi> He was one of the eleven Members impeach<g ref="char:EOLhyphen"/>ed by the Army for Treason, and by that Parlia<g ref="char:EOLhyphen"/>ment committed to the Tower.</p>
+            <p>
+               <hi>Thomas Grantham</hi> Col. of Foot since dead.</p>
+            <p>* <hi>Ellis Grimes</hi> Captain.</p>
+            <p>
+               <hi>Arthur Goodwin</hi> Col. of Foot, since dead.</p>
+            <p>
+               <hi>Brampton Gurdon</hi> Col.</p>
+            <p>Sir <hi>Arthur Haslerig,</hi> This boisterous Incendiary having by base and vilde courses possessed him<g ref="char:EOLhyphen"/>self of several Colepits neer <hi>Newcastle,</hi> was some<g ref="char:EOLhyphen"/>ing many poor peopled, the occasion of the starv<g ref="char:EOLhyphen"/>ing many poor people in <hi>London</hi> to death through cold, for being Governour, (he without any publike Authority, laid a Tax of four <hi>s. per</hi> Chaldron upon the Coals there, amounting to 50000 <hi>l. per annum,</hi>
+               <pb n="13" facs="tcp:115248:10"/>he got three great Mannors, of the <hi>Bishops Aukland, Everwood,</hi> and another for an inconsiderable matter; he hath been an implacable enemy to one Mr. <hi>Col<g ref="char:EOLhyphen"/>lingwood,</hi> and wrong'd him of a great estate; he hath a rich fleece, reported to the value of 20000 <hi>l. per annum,</hi> but 'tis hoped he will ere long be sheared.</p>
+            <p>Sir <hi>Edward Hungerford</hi> Col. famous for plunder<g ref="char:EOLhyphen"/>ing of <hi>Warder</hi> Castle, had the Lands of the Countess <hi>Dowager</hi> of <hi>Rutland</hi> worth 1500 l. <hi>per an.</hi> and shee was allowed but 500l. out of them.</p>
+            <p>☞ <hi>Cornelius Holland,</hi> his Father died in the <hi>Fleet</hi> for debt, and left him a poor boy in the Court waiting on Sir <hi>Henry Vane</hi> then Comptroller of the Princ<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s House, he was still Sir <hi>Henry Vanes</hi> Zanie, but now a comin with his Mr. for the revenue of the King, Queen, and Prince. This Pharisee was engag'd with other Monoplists and Patentees, whiie they stood, his conscience scrupling not the means where profit was the prise, he was turn'd out of the office of the <hi>Green</hi>-cloath for fraud and breach of trust. (with the help of his Mr.) made himself a Farmer of the Kings feeding grounds at <hi>Crestoe</hi> in <hi>Bucingham<g ref="char:EOLhyphen"/>shire</hi> worth 1800l. or 2000l. <hi>per annum.</hi> at the rate of 20l. <hi>per an.</hi> which he discounted. He possesed <hi>Somerset</hi>-house a long time, where he and his Family nested themselves. He was Keeper of <hi>Richmond</hi>-house for his Country retreat, He was Commissary for the Garisons at <hi>Whitehal</hi> and the <hi>Mewes;</hi> He had an of<g ref="char:EOLhyphen"/>fice in the Mint, and having ten Children, he long since gave 5000l. with a daughter, after which rate we must conceive he had laid aside 50000l. for por<g ref="char:EOLhyphen"/>tions; and was one of the Kings Judges, and one of the Committee of safety.</p>
+            <p>Sir <hi>Robert Harlow</hi> Master of the Mint in the place
+<pb n="14" facs="tcp:115248:11"/>of Sir <hi>Ralph Freeman,</hi> and Sir <hi>Thomas Alisbury,</hi> be<g ref="char:EOLhyphen"/>fore the Parliament he was much indebted, very poor and could not pay, now he is rich and will not pay.</p>
+            <p>
+               <hi>Henry Herbet</hi> had given him 3000l. and the plun<g ref="char:EOLhyphen"/>der of <hi>Ragland</hi> Castle.</p>
+            <p>
+               <hi>Iohn Hampden</hi> Col. of Foot, killed at <hi>Calgrove</hi>-Feild where he made his first Muster (his eldest son made since a Lord by <hi>Oliver Cromwel.</hi>
+            </p>
+            <p>Col. <hi>Francis Hacker,</hi> a Colouel of Horse for many years, and one of the three to whom the bloody Warrant for his late Majesties execution was directed.</p>
+            <p>* Sir <hi>Henry Hayman</hi> had given him 5000 l.</p>
+            <p>
+               <hi>Densil Hollis</hi> had ordered him 5000l. but refused it, and desired them to pay their debts, before they paid their legacies, he was one of the eleven Members impeached by the Army; was very hot in the begin<g ref="char:EOLhyphen"/>ning of the troubles, but is since of a better temper, and hath contributed much to the restoration of his Prince, and his Nations peace.</p>
+            <p>
+               <hi>Roger Hill</hi> a Barrister of the Temple, of no con<g ref="char:EOLhyphen"/>siderable estate till he had granted him from the House the Bishop of <hi>Winchesters</hi> Mannor of <hi>Taun<g ref="char:EOLhyphen"/>ton Dean,</hi> being the best of <hi>England</hi> worth 12000 <hi>l. per annum,</hi> when the Estates for lives determine, and was one of the Commissioners of <hi>Haberdashers</hi> Hall.</p>
+            <p>☞ <hi>John Hewson</hi> at first a Cobler of <hi>London,</hi> or at best a Shoomaker, went out a Captain upon the account of the cause; his zeal brought him to be a Colonel, and afterwards was made Governour of <hi>Dublin</hi> in <hi>Ireland,</hi> from whence he was sent for to be one of <hi>Barebones</hi> Parliament, and of all the mock Parlia<g ref="char:EOLhyphen"/>ments
+<pb n="15" facs="tcp:115248:11"/>since, was made a Knight of the new stamp, and afterwards was thought a fit person to be a Lord of the other House, and for his wisdom and good service in all his other imployments, was thought worthy to be one of the 23. Honourable Persons of the Committee of Safety that were to manage all publike affairs of the Nation, and to consider upon a frame of Government to be esta<g ref="char:EOLhyphen"/>blished; but in the heat of that great work, he was in all hast by his brethren of that Committee sent in a rage into <hi>London,</hi> to kill and still the inno<g ref="char:EOLhyphen"/>cent boyes playing at Football in the streets, much like his Brother <hi>Pride</hi> who cruelly destroyed the innocent Bears, afterwards the Coroners Jury that sat upon the murthered persons, found his Lordship guilty; he had been tryed at the Sessions House in the Old Baily, had not the News of his Majesties happy arrival prevented the sitting of that Court, and no doubt before this time received the reward of his Works; he was likewise one of the murthe<g ref="char:EOLhyphen"/>rous Judges sitting upon his Prince.</p>
+            <p>* <hi>Oliver</hi> St. <hi>Johns</hi> the Son of one master St. <hi>Johns</hi> of <hi>Bedford</hi> shire, who was supposed to be a bye blow of one of the Earls of <hi>Bedford;</hi> this <hi>Oliver</hi> was a Gentleman of slender fortune brought up to the profession of the Law who by speciall grace of his late Majesty was both his Soliciter and Attorney General; he deserted his master and ad<g ref="char:EOLhyphen"/>hering to the <hi>Parliament,</hi> was promoted to places of very great advantage many years together; he and <hi>Walter</hi> called Lord <hi>Strickland</hi> were sent Em<g ref="char:EOLhyphen"/>bassadours to the united provinces; he had also many years together the passing of all fines and compositions, said to be worth 4000l. <hi>per annum</hi>
+               <pb n="16" facs="tcp:115248:12"/>he was also Lord chief Justice of the Common-Pleas many years, a place of a vast profit he was made Chancellor of the University of <hi>Cambridge</hi> in the Earl of <hi>Manchesters</hi> room, a person signally Antimonarchicall till the usurpation of <hi>Oliver Cromwell.</hi>
+            </p>
+            <p>☞ <hi>Henry Ireton</hi> Commissary Generall and Collonel Lord Deputy of <hi>Ireland,</hi> and one of the Kings Judges, and one of the appointers of the time and place of his Execution,</p>
+            <p>☞ * <hi>Richard Ingoldsbey</hi> Collonel and Governour of <hi>Oxford,</hi> related to <hi>Cromwell,</hi> one of the Kings Judges but since a true Penitent for it.</p>
+            <p>Sir <hi>Thomas Jarvis</hi> had Mr. <hi>Webs</hi> place in <hi>Rich<g ref="char:EOLhyphen"/>mond</hi> little Parke, and had 9090 l. given him out of the Marquesse of <hi>Winchesters</hi> Estate.</p>
+            <p>* <hi>Philip Jones</hi> Colonel, a Member of the long Parliament, his original is from <hi>Wales:</hi> at the first of the War it is said he had not above 20 l. per annum. but hath since very much improved his in<g ref="char:EOLhyphen"/>trest upon account of the cause, became Govern<g ref="char:EOLhyphen"/>our of a Garison, and Steward of some of the Pro<g ref="char:EOLhyphen"/>tectors Lands in <hi>Wales,</hi> was a great stickler to ad<g ref="char:EOLhyphen"/>vance his Master to be Protector, for which good<g ref="char:EOLhyphen"/>ly service he was advancet to be one of his Coun<g ref="char:EOLhyphen"/>cil, worth 1000 l. per annum: afterwards Comptrol<g ref="char:EOLhyphen"/>ler of his Houshould, or Court, he made Hay whil'st the Sun shined; and hath improved his re<g ref="char:EOLhyphen"/>venue (as 'tis beleived) to 4000 l. per annum, if not more: was also one of the <hi>Rump.</hi>
+            </p>
+            <p>☞ <hi>John Jones</hi> at first a serving-man, then a Col. one of the long Parliament; was sent a Commissioner into <hi>Ireland</hi> for the governing that Nation, he likewise helpt to change this government;
+<pb n="17" facs="tcp:115248:12"/>was Governour of the Isle of <hi>Anglesey,</hi> married the Protectors Sister, and thorough pac't for his Court proceedings, who was thought fit with his name<g ref="char:EOLhyphen"/>sake and Country-man <hi>Phillip</hi> to be called Lords, and to be taken out of the <hi>Rump</hi> into the other House, to have a negative voice against the People, was also one of his Princes Judges,</p>
+            <p>
+               <hi>William Lenthal</hi> a Councellour at Law of <hi>Lin<g ref="char:EOLhyphen"/>colnes</hi> Inne, Speaker of the House of Commons, worth 2000 l. per annum, besides rewards for cour<g ref="char:EOLhyphen"/>tesies, master of the Rolls worth 3000 l. per an. besides the sale of Offices; Chamberlain of <hi>Chester</hi> in the Earle of <hi>Darbies</hi> place and, until of late Chancellour of the Dutchey of <hi>Lancaster,</hi> worth 1000 l. per annum. And was a Commissioner of the Seale, worth 1500 l. per annum. And had 6000 l. one time given him by the House, and the Rectory and Demesnes of <hi>Burford,</hi> with a stately House belonging to the Lord <hi>Falkland.</hi> worth 500 l. per annum. <hi>Oliver</hi> once made a Spunge of him, and squeesed him of 15000 l. who turning him and his Tribe out of doores, he veer'd about to save himself, and his great Offices, and he that had been so long Bellweather in the Commons House, was thought for his complyance, and his money to deserve to be one of the herd of Lords in the <hi>Other</hi> House.</p>
+            <p>☞ <hi>John Lisle</hi> Barrester of the Temple, Master of S. <hi>Crosses</hi> in Dr, <hi>Lewis</hi> his place, being a place for a Divine, worth 800 l. per annum. And one of the Lords Commissioners of the Great Seale, worth 1500 l. per annum, was one of the Kings Judges, afterwards became a <hi>Cromwellian,</hi> and swore <hi>Oliver</hi> at his first installing chief Magistrate.
+<pb n="18" facs="tcp:115248:13"/>He was president of the High Court of Justice (so called) which try'd Sir <hi>Henry Slingsby,</hi> and Doctor <hi>Hewit,</hi> &amp;c. for Treason against the Protector, and pass'd Sentence of Death against them.</p>
+            <p>☞ <hi>Nicholas Love</hi> the son of Doctor <hi>Love</hi> of <hi>Winchester,</hi> Mr. Speakers Chamber-fellow in <hi>Lin<g ref="char:EOLhyphen"/>colns Inn,</hi> was made one of the six Clerks in Chan<g ref="char:EOLhyphen"/>cery in Mr. <hi>Penruddocks</hi> place worth a 1000 <hi>l. per annum,</hi> one of the Councel of State in 1651. a constant Rumper, and one of his Soveraigns cruell Judges, and one of the Abjurators against Kingly Power.</p>
+            <p>* <hi>John Lenthal</hi> Sonne to the Speaker, made one of the six Clearks, worth 1500 per annum. Knighted by <hi>Oliver Cromwel,</hi> and was a Col. of Foot, and was Governour of <hi>Windsor</hi> Castle.</p>
+            <p>Sir <hi>Oliver Luke</hi> Col. of Horse.</p>
+            <p>Sir <hi>Samuel Luke</hi> his Sonne, Collonel and Scoutmaster for the Counties of <hi>Bedford,</hi> &amp;c.</p>
+            <p>* ☞ Sir <hi>Michael Livesey</hi> of the Isle of <hi>Sheppey</hi> in <hi>Kent,</hi> heretofore a Colonel under Sir <hi>William Waller,</hi> but a most notorious Coward: a penurious sneaking person, and one that could act an Hypo<g ref="char:EOLhyphen"/>crite to the life, in voice and humble gesture; One of his sacred Majesties cruel Judges, and Commit<g ref="char:EOLhyphen"/>tee-man general of <hi>Kent,</hi> and an eminent Rumper.</p>
+            <p>
+               <hi>Walter Long</hi> Collonel had 5000 l. and the Of<g ref="char:EOLhyphen"/>fice of Register in Chancery for four years.</p>
+            <p>
+               <hi>Henry Lawrence</hi> a member of the long Parlia<g ref="char:EOLhyphen"/>ment fell off at the murther of his Majesty, for which the Protector with great zeal declared, <hi>That a neutral spirit was more to be abhorred then a Cavalier spirit, and that such men as be were not fit to be used in such a day as that, when God was cutting down Kingship</hi>
+               <pb n="19" facs="tcp:115248:13"/>
+               <hi>root and branch;</hi> yet he came into play again and con<g ref="char:EOLhyphen"/>tributed much to the setting up of the Protector and a single person, affirming <hi>that no other foundation could stand,</hi> for which worthy service he was made and continued President of the Protectors Coun<g ref="char:EOLhyphen"/>sel, where he signed many arbitrary and illegal warrants for the carrying faithfull honest men to prison for their not Apostatizing with them, he was thorough pac't, and one no doubt who hath well feathered his nest, being also one of the Lords of the other House, and when that Honor vanish<g ref="char:EOLhyphen"/>ed, he became one of the honorable Committee of Safty, what he will be next is worth the in<g ref="char:EOLhyphen"/>quiry.</p>
+            <p>Lord Viscount <hi>Lisle,</hi> eldest son of the Earle of <hi>Leicester,</hi> he was of the long Parliament to the last, and at the change of Government and making Laws against his Soveraign, and no question con<g ref="char:EOLhyphen"/>curred with the rest in these sad effects; he was al<g ref="char:EOLhyphen"/>so of the little Parliament, commonly stiled <hi>Barebones</hi> Parliament; was all along of the Protectors Council, and was never to seek, who having learn<g ref="char:EOLhyphen"/>ed so much by changing with every change, and keeping still (like his Father in law the Earle of <hi>Salisbury</hi> and <hi>Peter Sterry</hi>) on that side which hath proved Trumpe, nothing need further be said of his fitness (being such a man of principles) to be taken out of the Rumpe Parliament to have settled a Negative voice in that other house over all the good people of these lands.</p>
+            <p>* <hi>Thomas Lister</hi> Lieutenant Colonel and Deputy Governor of <hi>Lincolone.</hi>
+            </p>
+            <p>☞ <hi>Edmond Ludlow</hi> Colonel, Covernor of <hi>War<g ref="char:EOLhyphen"/>der</hi>
+               <pb n="20" facs="tcp:115248:14"/>Castle, Lien General of the Horse and one of the Kings Judges, a great Phanatick, and favorer of such; he hath much improved his fortunes in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> but now is gone to seek his fortune else<g ref="char:EOLhyphen"/>where.</p>
+            <p>* <hi>Thomas Moore</hi> Officer in the Custom-house, and his brother was Covernour of <hi>Ludlow.</hi>
+            </p>
+            <p>☞ <hi>Henry Martin</hi> Colonel of a Regiment of Horse (and a Regiment of Whores) he had given him 3000 l. at one time to put him on upon the holy sisters and take off from the Levellers, he had the reputation of a precious Saint from his youth, in reference to all kinds of Debauchery, Unclean<g ref="char:EOLhyphen"/>ness and Fraud (having sold his Estate three times over) he lay many years prisoner in the Kings Bench for debt, and disgraced the place by renew<g ref="char:EOLhyphen"/>ing the old Stewes upon the Banks-side, had several other large sums given, and was one of the Kings Judges.</p>
+            <p>Sir <hi>Thomas Middleton</hi> Major General for <hi>Denby</hi> and five other Counties. who hath manifested his loyalty to his Prince, and a patriot of his Country.</p>
+            <p>☞ <hi>Tho. Hammond</hi> of <hi>Surrey</hi> was Leiutenant Ge<g ref="char:EOLhyphen"/>neral of the Attillery, under the Lord Fairfax, and became a great Creature of that ambitious Tyrant <hi>Cromwell,</hi> and a promoter of his Intrests, by whom he was drawn in to be one of those most cruel Judges of his Prince, to the very great grieffe, and contrary to the admonitions of his reverend Brother Doctor <hi>Hammond.</hi>
+            </p>
+            <p>☞ <hi>John Moore</hi> Colonel of the Guards, and for some time had the benefit of Passes out of <hi>London,</hi> and one of the Kings Iudges.</p>
+            <pb n="21" facs="tcp:115248:14"/>
+            <p>Sir <hi>John Morrick</hi> Major General.</p>
+            <p>☞ <hi>Gilbert Millington</hi> a Lawyer, had given him 1000 l. was Chair-man to the Committee of Plundred Ministers, where <hi>Phelps</hi> the Clark and he were belee<g ref="char:EOLhyphen"/>ved to share their fees, worth God knows what, he was one of the Kings Iudges.</p>
+            <p>* <hi>Richard Norton</hi> Colonel and Governor of <hi>South<g ref="char:EOLhyphen"/>ampton.</hi>
+            </p>
+            <p>
+               <hi>Anthony Nichols,</hi> Mr. <hi>Pyms</hi> Nephew by him was made pay-master to the Messengers of Intelligence, by which in a short time he put himself in a Parli<g ref="char:EOLhyphen"/>mentory equipage of Coachs, horses, and Attendants, got mony and paid his fathers debts, but was af<g ref="char:EOLhyphen"/>terwards suspended the house, and would not pay his own debts by his good will.</p>
+            <p>
+               <hi>Rob. Nicholas</hi> one of the Judges of the Upper-bench, afterwards one of the Barrons of the Exchequor.</p>
+            <p>
+               <hi>Michael Oldsworth</hi> no Colonel but Governor of Old <hi>Pembrook</hi> and <hi>Mountgomery,</hi> and had a share with his Lordship out of Sir <hi>Henry Comptons</hi> office worth 5000 l. <hi>per ann.</hi> was keeper of <hi>Windsor</hi> Parke, one of the two Masters of the Prerogative Office, and made the Bailiff of <hi>Westminster</hi> give him 50. <hi>per ann.</hi> to continue him there.</p>
+            <p>* <hi>Arthur Owen</hi> Colonel.</p>
+            <p>☞ Sir <hi>John Bourchier</hi> of <hi>Yorkeshire,</hi> a person of no great note, nor estate, till by his activeness in our late distempers and fishing in troubled waters, he angled fair, and catcht a great estate which was that he fought for. He was a man as constant at Committees as at his Dinners in Hell, where he may in time sup with his Father Satan, having been a constant Rumper, and one of the Kings cruell Judges.</p>
+            <pb n="22" facs="tcp:115248:15"/>
+            <p>☞ <hi>Tho. Challoner</hi> also a <hi>Yorkeshire</hi> man, eminent for his Speeche in the House, for the delivering of his late Majesty out of the <hi>Scots</hi> Clutches, in<g ref="char:EOLhyphen"/>to whose protection he had put himself; a man most virulently invective against Monarchy, ha<g ref="char:EOLhyphen"/>ving been one of his Majesties cruel Judges, also now at the sobrest an Inseparable Rumper, to the last an eminent stickler for a Common-wealth.</p>
+            <p>☞ <hi>Ri. Dean,</hi> goodman <hi>Button</hi> (an Hoyman of <hi>Ipswich</hi>) his Boy; after a Matross in the Army, then Colonel and Commander in chief in <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> till made one of the Generals at Sea, he was there killed, having left a great estate behind him, <hi>Viz.</hi> Havering Mannor in <hi>Essex,</hi> whose Park he unmercifully demolished: He was not only one of the Kings implacable Judges, but one of those that signd the Warrant for his death, and appoint<g ref="char:EOLhyphen"/>ed the time and place for his Execution.</p>
+            <p>
+               <hi>John Thurlow,</hi> a servant and Secretary to <hi>Oliver</hi> S. <hi>John,</hi> was after that made principal Secretary of State to <hi>Oliver Cromwel</hi> and <hi>Richard,</hi> and chose Postmaster of <hi>England,</hi> a place of a vast income, he may be justly said to be also a principal Instrument, and to have a great hand in bringing in all those abominable and wicked practises and oppressions that have been for these many years last past, by which and his underhand dealings, he did not on<g ref="char:EOLhyphen"/>ly attain to much greatness and honour, but to a vast estate, he was brought into all the Mock Par<g ref="char:EOLhyphen"/>liaments to give aim to his Masters; and it is belee<g ref="char:EOLhyphen"/>ved that he had a great hand with his brother <hi>Noel</hi> in selling some scores of those Gentlemen as slaves, to the <hi>Barbadoes</hi> and other Plantations, that were
+<pb n="23" facs="tcp:115248:15"/>accused for being in the business at <hi>Salisbury,</hi> with Mr. <hi>Penruddock</hi> and others, and was assisting in that Committee of Safety, whereof <hi>Fleetwood</hi> sate as as Prince, but now where he is, and what will befall him next, is well worth the knowledge.</p>
+            <p>☞ <hi>Henry Mildmay,</hi> the prodigy of ingratitude who was servant to the sate King &amp; not only knighted by him, but his Majesty was pleased also in his own person to become an Advocate, for the obtaining Alde man <hi>Holidaies</hi> Widdow for him; who being also made master of the Kings Jewels, most im<g ref="char:EOLhyphen"/>pudently had the face to appear and sit as one of his gracious Soveraigns Judges. He is a shallow fellow, by some firnamed sir Whimsey <hi>Mildmay;</hi> a pestilent Republican, and a rampant Rumper.</p>
+            <p>☞ <hi>Aug. Garland</hi> an old stander in the long Par<g ref="char:EOLhyphen"/>liament, an indefatigable Stickler in most Commit<g ref="char:EOLhyphen"/>tees. A notable Commonwealths man, and a re<g ref="char:EOLhyphen"/>solute opposer of the Government in a single per<g ref="char:EOLhyphen"/>son, therefore out of date upon the intrusion of <hi>Oliver Cromwel;</hi> but in again upon the restoration of the Rump, of which fraternity he was free. He was also one of his late Majesties Jud<g ref="char:EOLhyphen"/>ges.</p>
+            <p>☞ <hi>John Barkstead</hi> the Son of <hi>Michael Barkstead</hi> Goldsmith, who also was himself in his ruinority a petty Goldsmith in the <hi>Strand,</hi> a very empty shal<g ref="char:EOLhyphen"/>low pated person, therefore the most fit to be cajold and wrought on, being of a malleable temper. He forsooke his Shop, shuffled himself into the Camp, where more by fortune then valor he climbd up to be a Coll. and after Leiutenant of the Tower, a<g ref="char:EOLhyphen"/>dopted to be an Alderman, Major General of <hi>Mid<g ref="char:EOLhyphen"/>lesex,</hi> a severe persecutor of the <hi>Kings</hi> party, who
+<pb n="24" facs="tcp:115248:16"/>so was one of his Judges. A thorough paced A<g ref="char:EOLhyphen"/>gent for all Governments, and a most active Impe of <hi>Oliver</hi> the Usurper.</p>
+            <p>☞ <hi>Edmund Harvey</hi> late a poor silkman, after<g ref="char:EOLhyphen"/>wards made a Collonell. He got into the Bishops house of <hi>London.</hi> He by his jugling insinuation crep<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> into the Custom-house, and was there one of the farmers thereof. But being accused of fraudu<g ref="char:EOLhyphen"/>lent dealings there, was discarded by <hi>Cromwel</hi> though he had feasted him before most magnifi<g ref="char:EOLhyphen"/>cently at <hi>Fulham.</hi> I never heard any that could speak of his honesty or courage, being as to the last a little inconsiderable ratt, and as to the other a factious Rumper, and one of his Majesties cruell Judges.</p>
+            <p>☞ <hi>Thomas Harrison</hi> a man of very mean birth, being the son of a Butcher in or near <hi>Newcastle</hi> un<g ref="char:EOLhyphen"/>derline. He was servant to master <hi>Hulk</hi> an Attorney at Law, but preferring war before peace got into the Army, and having the knack of canting was believed to be a person of surpassing piety, &amp; so in<g ref="char:EOLhyphen"/>sinuated himself from one command to another, till he became Major Generall of <hi>Wales,</hi> being dange<g ref="char:EOLhyphen"/>rously anababtisticall in his tenents, and a perfect hater of Orthodox Divines and a devourer of their maintenance. He was very lately a Preacher and in<g ref="char:EOLhyphen"/>deed Head of a re-baptized congregation in <hi>Lon<g ref="char:EOLhyphen"/>don.</hi> He was clearly against Monarchy, not onely sitting a malicious Judge against his Majesty, but was one of those five who appointed the time and place for the Kings Execution.</p>
+            <p>☞ <hi>William Heveningham</hi> of <hi>Norfolk,</hi> a Gentle<g ref="char:EOLhyphen"/>man of a most antient extraction, and a very faire
+<pb n="25" facs="tcp:115248:16"/>Estate, who was conceived more out of some ani<g ref="char:EOLhyphen"/>mosity then interest to be drawne away. He was a<g ref="char:EOLhyphen"/>mongst the rest seduced to be one of the <hi>Kings</hi> Jud<g ref="char:EOLhyphen"/>ges, and was also one of the Rumpers.</p>
+            <p>☞ <hi>John Okey,</hi> his parentage was as mean as his calling, some deeming him a Drayman, others a Yeast<g ref="char:EOLhyphen"/>man, but he was indeed a Stoaker in a Brewhouse at <hi>Islington</hi> and afterwards poor Chandler neer <hi>Lion-Key</hi> in Thames Street, where living very poor and indigent, he converted his blue apron into a Busse Coat, and became a Colonel of Dragoons; a fellow of greater Bulk then Brains, and strength then Wit or Conscience, otherwise he would have had more grace then to have sate one of the Kings Judges, and be one of that most impudent Committee that signed the Warrant for his death, and appointed the time and place for his execution.</p>
+            <p>☞ <hi>John Downs,</hi> Colonel a Person which did strike whilest the Iron was hot, and so with his sword opened the trap door to his fortune. One that hath thriven well by the times, having raised himself to a considerable estate, an enemy to Mo<g ref="char:EOLhyphen"/>narchy, and a main man for a Common-wealth, be<g ref="char:EOLhyphen"/>ing one of the Kings Judges, and an hater of any government in one single Person, one of the Council of State in fifty one, and an inseparable Rumper to the last gasp.</p>
+            <p>☞ <hi>James Temple</hi> of <hi>Sussex,</hi> one of the Long Parli<g ref="char:EOLhyphen"/>ament, a Colonel, was Governour of <hi>Banbury</hi> Ga<g ref="char:EOLhyphen"/>stle in <hi>Sussex,</hi> got the estate of Sir <hi>Charles Shelley</hi> violently by Order from the Rump Parliament, under the notion of his being grand child of a Pa<g ref="char:EOLhyphen"/>pist; and possessed it without giving any due ac<g ref="char:EOLhyphen"/>count
+<pb n="26" facs="tcp:115248:17"/>for it, pretending his good service, and upon the interruption of the Rump, he took the Kings Bench, and afterwards came out by the five pound Act; the chief service he did was to be one of his Princes cruel Judges, and a constant Rumper.</p>
+            <p>☞ <hi>Symon Meyne</hi> of <hi>Buckinghamshire,</hi> and one of the long Parliament, a great Committee<g ref="char:EOLhyphen"/>man, wherein he licked his fingers, was one of his Princes cruel Judges, and a constant Rumper to the last.</p>
+            <p>
+               <hi>Mathew Tomlinson</hi> before these times was a Gen<g ref="char:EOLhyphen"/>tleman Usher to a Lady, and afterwards became a Major in the Army, and then a Collonel, was sent Commissioner into <hi>Ireland</hi> by <hi>Oliver Cromwel,</hi> and was Knighted there by <hi>Henry Cromwel</hi> the second Sonne of that Tyrant; was one that conducted the King to the Scaffold, and hath got a great Estate.</p>
+            <p>☞ <hi>Iohn Dixwell</hi> Burgesse for <hi>Dover</hi> in the long Parliament, was a Coll. of Foot, and a great Com<g ref="char:EOLhyphen"/>mittee-man in <hi>Kent,</hi> one of the Council of State, and one of his Princes cruel Judges, and a constant Rum<g ref="char:EOLhyphen"/>per to the last.</p>
+            <p>☞ <hi>Isaac Eyer</hi> was but a serving man at first, as it is reported, his zeal led him into the wars, and so he became a Coll. had much land given him in <hi>Ire<g ref="char:EOLhyphen"/>land</hi> for his good service, and for being one of the cruel Judges of his Prince.</p>
+            <p>☞ Sir <hi>Gregory Norton</hi> of <hi>Sussex</hi> a man but of a meane fortune before these times as it is said, had <hi>Richmond</hi> house, and much of the Kings goods for <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n inconsiderable valew, only they were the prise of royal blood, he being one of his Princes cruel Judg<g ref="char:EOLhyphen"/>es and a constant Rumper to his last.</p>
+            <pb n="27" facs="tcp:115248:17"/>
+            <p>
+               <hi>Edmond Prideaux</hi> formerly Commissioner to the great Seale worth 1500 l. per annum did by Ordinance practice within the Barr as one of the Kings Councell worth 5000 l. per annum and after that was Atturney Generall worth what he pleased to make it; Postmaster for all the inland letters, at 6. pence the letter worth 15000 l. per annum, and he got it thus, the Lord <hi>Stanhop</hi> the Postmasters and Carriers of <hi>England</hi> complained in Parliament against Mr. <hi>Witherings</hi> and others; touching the carrying of letters, whereupon the benefit of forraine letters were given to the Earle of <hi>Warwick</hi> worth more then 7000 l. per annum and in land letters to Mr. <hi>Prideaux.</hi> Was not this good justice?</p>
+            <p>* <hi>Thomas Pury</hi> Sen. first a Weaver in <hi>Glocester,</hi> then an ignorant Country Solicitor, had 3000 l. given him, * and Mr, <hi>Gerards</hi> place in the petty bagg worth 400 l. per anuum.</p>
+            <p>
+               <hi>Thomas Pury Iunior</hi> son to the elder, in the first year of the Parliament servant to Mr. <hi>Townsend</hi> an Atturney of Staple-Inne, receiver of the Kings rents in <hi>Glocester</hi> and <hi>Wilts,</hi> Clark of the peace of <hi>Gloucestershire</hi> worth 200 l. per annum, and Capt. of Foot and Horse.</p>
+            <p>
+               <hi>Francis Pierpoint</hi> hath the Arch-Bishop of <hi>Yorks</hi> Lands lying in <hi>Notingham shire.</hi>
+            </p>
+            <p>
+               <hi>Will. Pierpoint</hi> hath 7000 l. given him and all the Earles of Kingstones personall Estate (being, sequestred) worth 10000 l.</p>
+            <p>* <hi>Iohn Palmer</hi> Dr. of Physick Master of All soule<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in <hi>Oxford</hi> in Dr. <hi>Sheldens</hi> room, a place which was proper onely for a Divine.</p>
+            <pb n="28" facs="tcp:115248:18"/>
+            <p>Sir <hi>Iohn Palgrave</hi> Col. at the siege of <hi>Newark.</hi>
+            </p>
+            <p>
+               <hi>Charles Pym</hi> Cap. of a troop of Horse, son to the great Incendiary.</p>
+            <p>☞ <hi>Wil. Purefoy</hi> Col. and Governour of <hi>Coven<g ref="char:EOLhyphen"/>try,</hi> fought resolutely against the Crosse in the mar<g ref="char:EOLhyphen"/>ket place at <hi>Warwick,</hi> and against the ancient Monu<g ref="char:EOLhyphen"/>ments at the Earles Chappel in St. <hi>Maries</hi> Church there, who took the Mourners in brasse to be Monks and Friers, for which he had 1500 <hi>l.</hi> given him, but when he should have fought with the enemy, hid himself in a Barley field, for which a waterman which had been his Souldier afterwards refused to carry him; and was one of the Kings Iudges.</p>
+            <p>☞ <hi>Isaac Pennington,</hi> once Lieutenant of the Tower; a year and half Lord Mayor of <hi>London</hi> be<g ref="char:EOLhyphen"/>fore his time, had 7000 <hi>l.</hi> given him, and hath store of Bishops lands, yet this will not yield ten shillings in the pound to his creditors, was one of the Kings Iudges.</p>
+            <p>
+               <hi>Henry Pelham,</hi> Kecorder in <hi>Lincolne</hi> in the place of Sir <hi>Charles Dalison.</hi>
+            </p>
+            <p>
+               <hi>Alexander Popham</hi> Col.</p>
+            <p>* <hi>Edward Popham</hi> Col. afterwards one of the Ge<g ref="char:EOLhyphen"/>nerals at Sea.</p>
+            <p>
+               <hi>Francis Rous</hi> Provost of <hi>Eaton</hi> in Dr. Stewards place worth 1000 <hi>per an.</hi> he was Speaker of the pre<g ref="char:EOLhyphen"/>tended Parliament which surrendred their authority to the Protector <hi>Oliver,</hi> and was afterwards one of his Council, and Lord of his other House.</p>
+            <p>Sir <hi>Benjamin Rudyard</hi> had given him 5000 <hi>l.</hi>
+            </p>
+            <p>
+               <hi>Robert Reynolds</hi> had 2000 <hi>l.</hi> given him, besides <hi>Abington-Hall</hi> and the lands worth 400 <hi>l. per annum,</hi> hath lought a good penny worth of the Bishops
+<pb n="29" facs="tcp:115248:18"/>Lands, and it is reported had 20000 l. beyond seas, as he made appear upon his marriage, besides the sol<g ref="char:EOLhyphen"/>licitor generalls place.</p>
+            <p>* <hi>Edward Rossiter</hi> Col. and General of all the <hi>Lincolnshire</hi> Forces, and Governour of <hi>Belvoir</hi> Castle, but since a promoter of the Nations happinesse.</p>
+            <p>* Sir <hi>Francis Russel</hi> Col. brother in law to <hi>Oliver Cromwell,</hi> and one of his Lords.</p>
+            <p>* <hi>Thomas Rainsborough</hi> governour of <hi>VVoodstock</hi> and <hi>Taunton,</hi> and once Admiral of <hi>England;</hi> an Ene<g ref="char:EOLhyphen"/>my to Kingship, and was stabbed dead in the North in the midst of his greatnesse.</p>
+            <p>
+               <hi>Alexander Rigby</hi> Col. and Governour of <hi>Boston,</hi> and one of the Barons of the Exchequer.</p>
+            <p>
+               <hi>Richard Rose</hi> hath the house and furniture of one <hi>Bailey</hi> the Kings Glasier, which he got thus; he &amp; Mr. <hi>Je. Trenchard</hi> went to several houses about the Strand to hire Lodgings for Malignants, gave good rates, but would have the best furniture, and they being Mem<g ref="char:EOLhyphen"/>bers of the House, would secure them: Mr. <hi>Bailey</hi> was one, Mr. <hi>Rose</hi> caused to be sequestred and got it to himself, for which he and Mr. <hi>Trenchard</hi> fell out; but <hi>Bailey</hi> though an honest man, got not his goods a<g ref="char:EOLhyphen"/>gain, which crosses the Proverb.</p>
+            <p>
+               <hi>John Roll</hi> Merchant, had given him 1500 l. out of Sir <hi>John Worsenham</hi>'s Estate.</p>
+            <p>
+               <hi>Humphrey Salway</hi> the Kings Remembrancer in <hi>Mr. Fanshaw</hi>'s place worth 400 l. <hi>per an</hi>
+            </p>
+            <p>
+               <hi>Walter Strickland</hi> Agent in <hi>Holland</hi> for the two Houses of Parliament, worth 5000 l. <hi>per an.</hi> or what he was pleased to make it more; was of all the mock-Parliaments, and of the Protectors Council, and Captain of his Foot-Guard in
+<pb n="30" facs="tcp:115248:19"/>
+               <hi>Whitehall.</hi> He was lately one of the Common<g ref="char:EOLhyphen"/>wealth makers of the Committee of Safety (so cal<g ref="char:EOLhyphen"/>led.)</p>
+            <p>
+               <hi>John Selden</hi> had given him 5000 <hi>l.</hi> which he refu<g ref="char:EOLhyphen"/>sed to accept, and kept his conscience.</p>
+            <p>* <hi>John Stephens</hi> had given him out of the Lord <hi>Astley</hi>'s composition 8000 <hi>l.</hi>
+            </p>
+            <p>☞ <hi>Henry Smith</hi> made one of the six Clerks, worth 1000 <hi>l. per annum,</hi> and one of the Kings Judges, and conflant Rumper.</p>
+            <p>* <hi>Richard Salway</hi> once a Grocers Prentice, and their Spokes-man in one of their tumultuous hurries to the long Parl. and ever since was taken notice of for a great Talker: he was a main man in the Com<g ref="char:EOLhyphen"/>mittee of Safety; for which the Rump when they fate again rebuk'd him gently, as one that had gone astray from the <hi>Good old Cause,</hi> a Major in the Army and a great purchaser.</p>
+            <p>
+               <hi>Algernoon Sidney</hi> Governour of <hi>Dover</hi> Castle.</p>
+            <p>* <hi>Philip Skippon</hi> Serjeant Major General of the Army, Major General of <hi>London,</hi> and Go<g ref="char:EOLhyphen"/>vernour of <hi>Bristol.</hi> A Member of all the Parlia<g ref="char:EOLhyphen"/>ments, one of <hi>Noll</hi>'s Council, and Lord of his other House, a forward man in the Decimating op<g ref="char:EOLhyphen"/>pression; he hath gotten a vast Estate, hath been of all Parties, first a Presbyterian, 'till <hi>Philip Nye</hi> opened his eyes, and shewed him the way to worldly greatnesse.</p>
+            <p>☞ <hi>Anthony Stapley</hi> Col. and Governour of <hi>Chi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hester,</hi> and one of his Princes murtherers.</p>
+            <p>
+               <hi>John Sydenham</hi> Col. of Horse and Foot, Go<g ref="char:EOLhyphen"/>vernour of <hi>Waymouth,</hi> of <hi>Melcome Regis,</hi> &amp; com<g ref="char:EOLhyphen"/>mander in chief in <hi>Dorsetshire,</hi> had given him
+<pb n="31" facs="tcp:115248:19"/>1000 l. one of <hi>Cromwell</hi>'s Council, and a Lord of his other House, had a great command in the Isle of <hi>Wight,</hi> was one of the Lords Commissioners of the Treasury. He was lately one of the Committee of Safety, and a great Rumper.</p>
+            <p>
+               <hi>Richard Shuttleworth</hi> Col. and had very many of the Recusants lands in <hi>Lancashire</hi> in seque<g ref="char:EOLhyphen"/>stration, himself being chief for sequestrations there.</p>
+            <p>* <hi>Augustine Skinner</hi> by his industry in the ser<g ref="char:EOLhyphen"/>vice hath purchased the Bishop of <hi>Rechesters</hi> Mannor of <hi>Brumley</hi> in <hi>Kent</hi> at a very low rate.</p>
+            <p>* <hi>Robert Seawine</hi> had given him 2000 l. towards his losses but hath the esteem of an honest man.</p>
+            <p>☞ <hi>William Say</hi> a lewd Lawyer, dealt much in Fennlands, one of his Princes Murderers, and a stately Committee man in <hi>Kent,</hi> and Speaker for ten dayes to the Rump, while <hi>Lenthall</hi> was sick or sul<g ref="char:EOLhyphen"/>len.</p>
+            <p>
+               <hi>Francis Thorp,</hi> Receiver of the money in <hi>York<g ref="char:EOLhyphen"/>shire,</hi> and charged by some of the Countrey for de<g ref="char:EOLhyphen"/>taining 25000 l. and one of the Barrons of the Ex<g ref="char:EOLhyphen"/>chequer, for which he hath 1000 l. <hi>per annum,</hi> besides the profits of the place, a bitter enemie to his Prince, and a creature of the Rumps ma<g ref="char:EOLhyphen"/>king.</p>
+            <p>☞ <hi>Peter Temple</hi> Cap. of a Troop of Horse, a great Committee man, a constant Rumper, and one of the Kings Iudges.</p>
+            <p>Sir <hi>Thomas Trenchard</hi> had given him 1200l. thus he married his daughter to <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> a Maligrant, gave security for the payment of 1200 l. portion besides Parliamentary curtesies,
+<pb n="32" facs="tcp:115248:20"/>got his son in law sequestred, discovers the debt, had it given him for his fidelity to the State: a neat Par<g ref="char:EOLhyphen"/>liamentary way to pay portions.</p>
+            <p>
+               <hi>Iohn Trenchard,</hi> brother to Sir <hi>Tho. Trenchard,</hi> but a better Father in law, he was Governour of <hi>Warham,</hi> he married two of his daughters to Mr. <hi>Bingham,</hi> and Mr. <hi>Siddenham,</hi> he procured them to be made Colonels of Horse and Foot, and Governours of severall Garrisons, got them to be chosen Members of the House of Commons, and to be made free of his own Trade by their fathers coppy.</p>
+            <p>
+               <hi>Thomas Toll</hi> had the Customeers place of <hi>Lyn-Re<g ref="char:EOLhyphen"/>gis</hi> in his sons name, worth 300 l. <hi>per annum,</hi> yet it is anothers grant.</p>
+            <p>Sir <hi>Iohn Trevor</hi> had 9000 l. out of the Marquess of <hi>Winchesters</hi> estate, and the Marquesse was put to his and Mr. <hi>Wallops</hi> allowance for divers years toge<g ref="char:EOLhyphen"/>ther, besides <hi>Richmond</hi> Park and ground, and the great Park at <hi>Non-such;</hi> he had a Monopoly of 1500 l. <hi>per annum</hi> out of <hi>Newcastle</hi> coles.</p>
+            <p>
+               <hi>Benlamin Valentiue</hi> had given him 5000 l.</p>
+            <p>
+               <hi>Samuel Vassel</hi> had given him 1000 l.</p>
+            <p>☞ <hi>Iohn Ven</hi> Col. Governour of <hi>Windsor,</hi> and one of the Kings Iudges, had given him for losses 4000 l. besides the plunder of the Countrey about <hi>Windsor,</hi> much of the Kings Housholdstuff, as Han<g ref="char:EOLhyphen"/>gings, Linnen, and Bedding. He was a zealous refor<g ref="char:EOLhyphen"/>mer, and a great demolisher of pictures, though but in walls and Church windows.</p>
+            <p>Sir <hi>Henry Vane Senior,</hi> one that rose by the Indul<g ref="char:EOLhyphen"/>gence of his Prince, and yet a most Ingratefull deserter of him. He had the Bishop of <hi>Duresmes</hi> Mannor, Park, Demeasnesse of <hi>Evenwood,</hi> had given him
+<pb n="33" facs="tcp:115248:20"/>5000 <hi>l.</hi> Chair-man for the Kings, Queens and Princes Revenue, the Epitome whereof is the Lord Treasu<g ref="char:EOLhyphen"/>surer: his man <hi>Cozens</hi> was Clerk to the Committee, and got 1500. or 2000 <hi>l. per annum</hi> by it.</p>
+            <q>
+               <l>And if the man such profits have,</l>
+               <l>What must he then that keeps the Knave.</l>
+            </q>
+            <p>
+               <hi>Bulstrode Whitlock,</hi> once a Counsellor at Law of the middle Temple, then a member of the long Parliament, where he profited much, advanced his Interest, and became Commissioner of the great Seal. Before the Troubles he was an intimate friend to Sir <hi>Richard Lane,</hi> who going to <hi>Oxford,</hi> entrusted him with his chambers in the Temple, of which with all the goods, and an excellent Library he hath kept pos<g ref="char:EOLhyphen"/>session ever since, and would not own that ever he knew such a man, when Sir <hi>Richard</hi>'s son was brought to wait upon him (in his greatnesse.) He was sent Embassador into <hi>Sweden</hi> in great State, and when his Masters were turn'd out, acted there for the Protector. He was since Commissioner of the Trea<g ref="char:EOLhyphen"/>sury under him, and one of his Lords of the other House; under <hi>Dick</hi> he was made Commissioner of the Seal again, and he being discarded, wheeled a<g ref="char:EOLhyphen"/>bout and worshipp'd the Rump. And when <hi>Lambert</hi> unseated them, he became President of the Committee of Safety: since which he has had the leasure to con<g ref="char:EOLhyphen"/>sider of his former honest actions, for which he had 2000 <hi>l.</hi> given him at one time, and hath a good fleece, and heir to <hi>Lilly</hi> the Astrologer.</p>
+            <p>Sir <hi>Thomas Widdrington,</hi> a Lawyer, with which
+<pb n="34" facs="tcp:115248:21"/>and a formal complyance with the enslavers of these Nations he hath advanced his fortune. He was lately Commissioner of the Treasury, and of the great Seal. He was Speaker of that Parliament that be<g ref="char:EOLhyphen"/>tray'd the liberties of the people of <hi>England,</hi> by ma<g ref="char:EOLhyphen"/>king Acts of incredible injustice. He put on <hi>Olivers</hi> Robes at his Installation, and made him a worthy Oration, for which good service he was made chief Baron of the Exchequer. His slye formality re<g ref="char:EOLhyphen"/>stor'd him to the great Seal since the Rump's resitting. No doubt he is a weakly man, and has more of the Willow then the Oak.</p>
+            <p>☞ <hi>Edward Whaley</hi> formerly a woollen Dra<g ref="char:EOLhyphen"/>per or petty merchant in <hi>London,</hi> where not thri<g ref="char:EOLhyphen"/>ving, and being much in Debt, he fled into <hi>Scotland</hi> till the Warres began, which he hath found a more gainfull trade; and in which he was Commissary General of the Horse; he was of the later Parlia<g ref="char:EOLhyphen"/>ments, and a promoter of <hi>Olivers</hi> ambitious de<g ref="char:EOLhyphen"/>signes and his Countries slavery, for which he was made a Major General of two or three Counties, and a Lord of the other House. But the restoring of the Rump checkt this little man's greatnesse, till <hi>Lambert</hi> turned them out, and then he was sent into <hi>Scotland</hi> to desire General <hi>Monck</hi> to be quiet. He was one of the accursed crue that dared to sit in judgement upon his Sove<g ref="char:EOLhyphen"/>raign.</p>
+            <p>Sir <hi>Henry Ʋane junior,</hi> sonne to the Elder, to<g ref="char:EOLhyphen"/>tally outed Sir <hi>William Russel,</hi> and was sole Trea<g ref="char:EOLhyphen"/>surer to the Navy, a place worth at least 6000 <hi>l. per annum</hi> in time of Warre, especially when the Lord Treasurer was his Friend, more when he
+<pb n="35" facs="tcp:115248:21"/>was his Father. He was a Discontent during all <hi>Oliver</hi>'s and <hi>Richard</hi> 's Government. He is no doubt a man of much Religion, and would have become one of the Rulers of <hi>Israel,</hi> if the in<g ref="char:EOLhyphen"/>tended match between his Son and <hi>Lamberts</hi> Daughter had not been spoil'd by the restituti<g ref="char:EOLhyphen"/>on of the Rump.</p>
+            <p>Sir <hi>VVilliam VValler</hi> lost two Armies and yet a Gainer. He was afterwards one of the eleven im<g ref="char:EOLhyphen"/>peached Members, and is become an honest man, and a Patriot of his Countrey.</p>
+            <p>Sir <hi>Thomas VValsingham</hi> had the honour of <hi>El<g ref="char:EOLhyphen"/>tham</hi> given him that was the Earl of <hi>Dorsets,</hi> the middle Park and House which was Mr, <hi>VVhites,</hi> and hath cut down 5000 l. worth of Timber-trees, but hath scarce one left of his own to make a Gibbet.</p>
+            <p>☞ * <hi>Thomas VVait</hi> Coll. Governour of <hi>Barley</hi> on the Hill, where he thrived so well, that he bought 500 l. <hi>per annum,</hi> one of the Kings Iudges. ☞ <hi>Rouland VVilson</hi> Coll. one of his Princes Iudges, and as it is said, died with the conceit of it, being accused by a Parrot for killing of his King.</p>
+            <p>
+               <hi>Thomas VVesttrow</hi> Captain under Sir <hi>Mi<g ref="char:EOLhyphen"/>chael Livesey,</hi> and hath gotten the Bishop of <hi>VVor<g ref="char:EOLhyphen"/>cesters</hi> Mannor of <hi>Hartlebury.</hi>
+            </p>
+            <p>Sir <hi>Christopher VVray</hi> Coll. since dead.</p>
+            <p>* <hi>VVilliam VVray</hi> his sonne Coll.</p>
+            <p>
+               <hi>VVilliam VVhite</hi> Coll. and was Treasurer of War to the Army in the North under the command of the old Lord <hi>Fairfax.</hi>
+            </p>
+            <p>Sargeant <hi>VVild,</hi> Lord chief Barron had after the hanging of Captain <hi>Burley</hi> a 1000 l. out of
+<pb n="36" facs="tcp:115248:22"/>the privy purse of <hi>Darby</hi>-house, 'tis thought he affor<g ref="char:EOLhyphen"/>ded a great pennyworth in his service, which another would not have done for 10000 l. and it is affirmed he had 1000 l. more upon the acquittance of Major Rolph, so 'tis all one to him whether he hangs or hangs not. He liv'd retir'd during the <hi>Protectorian</hi> Government, but was lately restored to the Exche<g ref="char:EOLhyphen"/>quer, for being a lover of the Rump.</p>
+            <p>
+               <hi>Robert Wallop</hi> had 11000 l. out of the Marquess of <hi>Winchesters</hi> Estate as 'tis reported.</p>
+            <p>☞ <hi>Valentine Walton</hi> Brother-in-Law to <hi>Oli<g ref="char:EOLhyphen"/>ver Cromwell,</hi> Colonel and Governour of <hi>Lin Regis,</hi> purchased the Queens Mannor of <hi>Somersham</hi> in the Isle of <hi>Ely</hi> for a small matter, which he has im<g ref="char:EOLhyphen"/>proved to a large revenue by Decoyes, &amp;c. which the rage of the people has lately demolished utterly: was one of the Kings Iudges, was instrumental in dethro<g ref="char:EOLhyphen"/>ning his Cousin <hi>Dick.</hi>
+            </p>
+            <p>☞ Sir <hi>Hardresse Waller</hi> Major General of the Army, a Colonel of Horse, a great Committee-man, and one of those five who were appointed to consider of the time and place of his late Majesties execution, which they appointed before his own door. He, with his assistants were also the Kings Iudges.</p>
+            <p>It was reported that <hi>Steven Kirk, Daniel Cox, Rab. Wakeman</hi> and <hi>Iohn Stinte</hi> (prime Clerks and Sollicitors to their Committees) shared 1100 l. of Sir <hi>Edward Sebrights</hi> mony to keep him from being a Delinquent, and that records were taken off the file, and others put in their rooms, gained great Estates to themselves, the truth of this were worth enquiting af<g ref="char:EOLhyphen"/>ter.</p>
+            <p>How many of those Members have undertaken
+<pb n="37" facs="tcp:115248:22"/>to secure Malignants Houses and goods, but in the end have taken them all for their owne use.</p>
+            <p>What Castles, Houses, Chases and Parks have they had, and the publick no benefit thereof is worth the en<g ref="char:EOLhyphen"/>quiry. Besides the Kings Revenues and composi<g ref="char:EOLhyphen"/>tions which amounteth to</p>
+            <p>Besides these Offices, Commands and gratuities, and every member of the House of Commons, (being in all 516.) are by their own order allow<g ref="char:EOLhyphen"/>ed 4. <hi>l. per</hi> week a man, which amounts to 107328 <hi>l. per annum,</hi> by the Ordinance for sequestring Delinquents (<hi>April</hi> 1. 1643.) it was declared that their Estates should goe for maintenance of the publick affairs, and several other Ordinances de<g ref="char:EOLhyphen"/>signed Bishops Lands for payment of 200000 <hi>l.</hi> pu<g ref="char:EOLhyphen"/>blick debt, yet you may see by this that Delinquents Estates and Bishops Lands were by the Members of Parliament shared amongst themselves whilest the pu<g ref="char:EOLhyphen"/>blick debt is unsatisfied, and the Excise and Taxes held up.</p>
+            <p>Besides all this the incomes they raised upon the people under colour of the War, amounted to 3. mil<g ref="char:EOLhyphen"/>lions <hi>per annum</hi> at least.</p>
+            <p>And did not they intend to perpetuate their Parliament, and entail their Session (as the Priest<g ref="char:EOLhyphen"/>hood on <hi>Levi</hi>) on confiding Families to furnish them with Votes, as Sir <hi>Gilbert Gerard</hi> and his two sons, Sir <hi>Robert Harloe</hi> and his two sons, three <hi>Fynes,</hi> three <hi>Ashes,</hi> four <hi>Stephens,</hi> four <hi>Pelhams,</hi> four <hi>Her<g ref="char:EOLhyphen"/>berts,</hi> four <hi>Temples,</hi> Sir <hi>Thomas Jervois</hi> and his son, Sir <hi>Henry Vane</hi> and his son, two <hi>Puries,</hi> two <hi>Cha<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>loners,</hi> two <hi>Bacons,</hi> two <hi>Pierepoints,</hi> two <hi>Bonds,</hi> two
+<pb n="38" facs="tcp:115248:23"/>
+               <hi>Onflowes,</hi> two <hi>Pooles,</hi> two <hi>Lenthalls,</hi> &amp;c. And that our Ecclesiasticks may comply with our Temporall Governors, the House abolish (as superstitions because Legall,) the convocation of learned Divines regularly chosen by the Kings writ and duly elected by the Clergy, and the House of Commons nominated an assembly of gifted Divines, for that there is not an assembly man, but is thrust into anothers benefice.</p>
+            <div type="ordinance">
+               <head>Here follows the selfdenying ordinance.</head>
+               <opener>
+                  <dateline>
+                     <date>Die <hi>Iovis</hi> April 3. 1645.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>An Ordinance of the Lords and Commons Assembled in Parliament for the discharging of the Members of both Houses from all Offices both Military and Civil.</hi>
+               </p>
+               <p>BE it ordained by the Lords and Commons assembled in Parliament, that all and every of the Members of either House of Parlia<g ref="char:EOLhyphen"/>ment shall be, and by authority of the ordinance are discharged at the end of forty dayes after the passing of this ordinance of and from all and every office or command Military or civill, grant<g ref="char:EOLhyphen"/>ed or conferred by both or either of the said Houses of this present Parliament, or by any au<g ref="char:EOLhyphen"/>thority derived from both or either of them, since the 20 day of November 1640.</p>
+               <p>And be it further ordained, that all other Go<g ref="char:EOLhyphen"/>vernors and Commanders of any Iland, Town, Castle or Fort, and all other Collonels and Offi<g ref="char:EOLhyphen"/>cers
+<pb n="39" facs="tcp:115248:23"/>inferiour to Colonels in the severall Armies, not being Members of either of the said Houses of Parlia<g ref="char:EOLhyphen"/>ment, shall according to their respective Commissions continue in their severall places and commands, wherein they were imployed and entrusted the 20 day of <hi>March</hi> 1649. as if this Ordinance had not been made.</p>
+               <p>And that the Vice-Admirall, Rere-Admirall and all other Captains, and other inferiour Offi<g ref="char:EOLhyphen"/>cers (in the Fleet) shall according to their seve<g ref="char:EOLhyphen"/>rall and respective Commissions continue in their severall places and commands, wherein they were imployed and intrusted the said twentieth day of <hi>March</hi> 1644, as if this Ordinance had not been made.</p>
+               <p>Provided alwayes, and it is further ordained and declared, that during this warre the benefit of all Offices, being neither Military nor Iudiciall hereafter to be granted or any way to be appoint<g ref="char:EOLhyphen"/>ed to any person or persons by both or either House of Parliament, or by authority derived from thence, shall goe and inure to such publick uses as both Houses of Parliament shall ap<g ref="char:EOLhyphen"/>point.</p>
+               <p>And the granters and persons executing all such Offices shall be accmptable to the Parlia<g ref="char:EOLhyphen"/>ment for all the profits and perquisites competent sallary, for the execution of the same in such manner as both Houses shall order and ordain being allowed them.</p>
+               <p>Provided that this Ordinance shall not extend to take away the power and authority of any lieutenancy, or deputy lieutenancy in the said
+<pb n="40" facs="tcp:115248:24"/>Countie, City or places, or of any <hi>Custos Rotulo<g ref="char:EOLhyphen"/>rum,</hi> or of any Commission of Iustice of Peace, or sewers, or any Commission of Oyer and terminer or Goale delivery.</p>
+               <p>Provided alwayes, and it is hereby declared, that those Members of either House, who had Offices by grant from his Majesty before this Parliament, and were by his Majesty displaced sit<g ref="char:EOLhyphen"/>ting in this Parliament, and have since by autho<g ref="char:EOLhyphen"/>rity of both Houses been restored, shall not by this Ordinance be discharged from their said Offices or profits thereof, but shall enjoy the same any thing in this Ordinance to the contrary thereof notwithstanding.</p>
+               <trailer>This is the end of the self-denying Ordinance.</trailer>
+            </div>
+         </div>
+         <div type="text__cont.">
+            <pb n="41" facs="tcp:115248:24"/>
+            <head>A List of such Aldermen and Common-Councel men as have had great profits by the Con<g ref="char:EOLhyphen"/>tinuing of the Warre, Excise, taxes, and proceedings of the two Houses of Parliament.</head>
+            <p>
+               <hi>THe City of</hi> London, <hi>no doubt, was al<g ref="char:EOLhyphen"/>wayes famous for wealthy Citizens, so that 'tis said before these times four Aldermen of</hi> London <hi>were able to buy the estates of twenty of the chief Burgomasters of</hi> Amsterdam. <hi>The truth is, all things flourish'd then, and all trades were in a thriving condition. Of late we do not find so many rich men as formerly, but more poor and such as barely make a shift to live. The reason of which is, the generall decay of all trades, occasioned by the heavy burd<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns of all sorts of impositions, which so exhaust the wealth of the whole Nation, that in a few
+<pb n="42" facs="tcp:115248:25"/>years time it has been all drawn to the Exche<g ref="char:EOLhyphen"/>quer. Therefore those we see grown rich of late, have become so by other trades then were for<g ref="char:EOLhyphen"/>merly ever known in this City; the chiefest of which consisted in dealing in Excise, Customes, Taxes, Sales of forfetted Lands,</hi> &amp;c. <hi>Which have prov'd mighty comfortable to the hearts of the following persons, while their Neigh<g ref="char:EOLhyphen"/>bours and the rest of the Nation lay groaning and crying out of their miseries.</hi>
+            </p>
+            <p n="1">1. <hi>IOhn VVarner</hi> Lord Mayor before his time, one of the Treasurers of Warre had 3 d. a pound for what he received in, and as much by Ordinance for what he paid out, besides great gratuities to help men to their monies, and bought good penny<g ref="char:EOLhyphen"/>worths of bad debts, then paid himself, he was also Treasurer for all monies that were due up<g ref="char:EOLhyphen"/>on Ordinance of the third of <hi>August</hi> 1645. he was made Treasurer for loan-monies. <hi>Iudas</hi> car<g ref="char:EOLhyphen"/>ried but one bag who is said to be a thief, <hi>VVarner</hi> had three, but my modesty will not say so of him, yet he hath purchased at easie rates the Arch Bishop of <hi>Yorks</hi> best house, the Castle and Mannor of <hi>Caiwood;</hi> but he was one of the Mi<g ref="char:EOLhyphen"/>litia of <hi>London,</hi> and therefore the City Forts must justifie whatsoever he hath done.</p>
+            <p n="2">2. Sir <hi>Iohn VVollastone</hi> Alderman, at first he was one of the Treasurers for the Plate, and a Treasurer at Warre, Treasurer for Loan-money,
+<pb n="43" facs="tcp:115248:25"/>Say-master of the Mint, and Trustee for Sale of Bishops Lands, and hath the Bishop of <hi>Londons</hi> land at <hi>Highgate,</hi> and he was one of the City Militia, and shared with my Lord <hi>Say</hi> in <hi>Guildhall</hi> Plate, whereby they much enriched them<g ref="char:EOLhyphen"/>selves.</p>
+            <p n="3">3. <hi>VVilliam Gibbs</hi> Alderman, was Master of the <hi>Guildhall</hi> Plate and Bodkins, by which he got 7 or 8000 l. he was one of the Treasurers for 200000 l. to pay the <hi>Scots</hi> which was done in half crowns; he was a Trustee for Bishops Lands, and Treasurer for rents and money raised by them, and for what he received and what he paid, had 1 d. <hi>per</hi> l. allowed by Ordinance, besides what he allowed himself, he also was one of the City Militia, because he must stand upon his guard, and was one of the Commissioners from the City, just before the Army marched in with <hi>Lenthall</hi> the Speaker, and the rest of the Mem<g ref="char:EOLhyphen"/>bers that run from the House.</p>
+            <p>
+               <hi>Iohn Fowk</hi> Alderman, he was a Commissioner for the Customes, refused to accompt upon oath, because his too tender conscience might not discover ought against his profit, he reformed (cheated is obsolete) Iews and Gentiles, Papists and Protestants; for Iews he said he might un<g ref="char:EOLhyphen"/>der the Gospel as well borrow their Ear-rings, as they under the Law did the Egyptians. His Chri<g ref="char:EOLhyphen"/>stian Reformation will fill as much paper, as the Declaration and Ordinances of the Houses for Forraign Reformation. Enquire of <hi>Madock Sawes</hi> a Greek of Zant, for whom he was Factour: for our home Reformation you may learn of Mr. <hi>Io.</hi>
+               <pb n="44" facs="tcp:115248:26"/>
+               <hi>Plampton, Thomas Milsey,</hi> Mr. <hi>Clerk</hi> a Cooper, Mr. <hi>Beadle,</hi> &amp;c. all whom he hath reformed; he was Treasurer for payments of Waggoners: he was a Trustee for Bishops Lands, and Controller of Accompt for them, had first 200 l. <hi>per annum,</hi> and after by an additionall Ordinance 300 l. a yeare more standing Fee, and another of the City Commissioners to bring in the Army, when they opened the gap to our ruine.</p>
+            <p>☞ <hi>Isaac Penington</hi> Alderman, a Member of the House of Commons, while he was Lord Mayor he got much money by passes out of the Town, more by turning men out of their places for pretended Malignants, and putting others in their room, creatures of his own; he was Lieu<g ref="char:EOLhyphen"/>tenant of the Tower of <hi>London,</hi> he was trusted by Sir <hi>Iohn Penington</hi> with 6000 l. which he dis<g ref="char:EOLhyphen"/>covered, begg'd it, and had it by Priviledge of Parliament, he was protected against Creditours, and therefore would not pay debts, yet hath he bought store of Bishops Lands, this was one of his Majesties murderous Iudges, and a constant Rumper.</p>
+            <p>
+               <hi>Christopher Pack</hi> Alderman, Commissioner for Customes, Treasurer at Warre, had 3 d. <hi>per</hi> l. for all money paid to him, or received from him, hath bought the Bishop of <hi>Lincolnes</hi> Mannor and House at <hi>Bugden,</hi> and was one of the City Mili<g ref="char:EOLhyphen"/>tia; he was both a Knight and Lord of <hi>Crom<g ref="char:EOLhyphen"/>wel</hi>'s making, and brought the Bill into the House, at the instance of the Royallists of the House, to petition him that he would please to be King; for which good service upon his Peti<g ref="char:EOLhyphen"/>tion, he was discharged from an account of
+<pb n="45" facs="tcp:115248:26"/>16000 l. which he and others were liable to make good to the Treasury of the Customes. Was one of Dr. <hi>Hewets</hi> Iudges, and proclaimed no Kingship.</p>
+            <p>☞ <hi>Thomas Andrews</hi> Alderman, before the Parliament a great dealer in projects, was Trea<g ref="char:EOLhyphen"/>surer for the plate and money, brought into <hi>Guildhall,</hi> where he and Lord <hi>Say</hi> licked their fingers. He was Treasurer at Warre, had 3. d. <hi>per</hi> l. as the others, and was a Commissioner for Customes; he built many houses upon the ground belonging to S. <hi>Pauls</hi> Church, and was one of the late King's Iudges. He was illegally made Lord Mayor on purpose to proclaim the Act against Kingly Government, when Alderman <hi>Reynoldson</hi> refused it.</p>
+            <p>
+               <hi>Samuel Avery</hi> Alderman, a Commissioner for the Customes, a Treasurer for sequestrations, and a Trustee for the sale of Bishops Lands.</p>
+            <p>
+               <hi>Tho. Culham</hi> Alderman, a Commissioner for Excise worth 1200 l. <hi>per annum.</hi>
+            </p>
+            <p>
+               <hi>Iohn Kendrick</hi> Alderman, Commissioner for Excise, worth 1200 l. <hi>per annum.</hi>
+            </p>
+            <p>
+               <hi>Tho. Foot</hi> Alderman, Commissioner for the Excise, worth 1200 l. <hi>per annum.</hi>
+            </p>
+            <p>☞ <hi>Owen Roe</hi> Lieutenant Colonel, Keeper of the Magazine &amp; store, received 5000 l. to pro<g ref="char:EOLhyphen"/>vide arms, not yet accompted for, one of the Ci<g ref="char:EOLhyphen"/>ty Militia, and one of the Kings Judges, a fire<g ref="char:EOLhyphen"/>brand of the City, and an Enemy to its Ancient Civil Government.</p>
+            <p>
+               <hi>Walter Boothby</hi> Commissioner for the Customes. <hi>Thomas Manwaring</hi> a Colonell, Register ac<g ref="char:EOLhyphen"/>countant
+<pb n="46" facs="tcp:115248:27"/>for moneys raised by Bishops Lands, had a standing Fee of 200 l. <hi>per annum.</hi>
+            </p>
+            <p>
+               <hi>Iohn Dethick</hi> a Treasurer at Warre, and bad 3 d. <hi>per</hi> l. for what he both received and paid, and one of <hi>Cromwell'</hi> Knights.</p>
+            <p>
+               <hi>Edward Hooker</hi> Colonell.</p>
+            <p>
+               <hi>Thomas Viner</hi> Alderman of <hi>London</hi> and once Lord Mayor; was like a still Sow, and brought much draffe to his Trough, no doubt got well by ordering the massey heaps of Plate for the Mint, was one that proclaimed no Kingship; and yet a while after proclaimed <hi>Oliver</hi> the Ty<g ref="char:EOLhyphen"/>rant, and rode barehead and carried the sword when it rained before him; for which good ser<g ref="char:EOLhyphen"/>vice be dubbed him his first Knight. He was Sheriff of <hi>London</hi> when his Prince was murthered, and was then present, the which <hi>Alderman Brown</hi> his then fellow-Sheriff refused and was se<g ref="char:EOLhyphen"/>cured.</p>
+            <p>☞ <hi>Robert Tichburn</hi> Alderman, a Colonel, Lieu<g ref="char:EOLhyphen"/>tenant of the Tower, a Commissioner for the Customes a long time, and no doubt had a share with his brother <hi>Pack</hi> of the 16000 l. in arrear: A grand Committee-man, one of the Militia of the City, and by his dexterity in these and many other offices got a great estate; was also both Knight and Lord of <hi>Olivers</hi> makings which he deserved for being one of his Princes Cruell Iudges, afterwards went to proclaim no King<g ref="char:EOLhyphen"/>ship, was one of Dr. <hi>Hewits</hi> Iudges, and a mighty man in the Committee of unsafety.</p>
+            <p>
+               <hi>Iohn Ireton</hi> Alderman, Lord Mayor of <hi>London</hi> one year, and would fain had been in another
+<pb n="47" facs="tcp:115248:27"/>yeare, out of his love to the Place and to his good masters in the Rump, who made him a Co<g ref="char:EOLhyphen"/>lonell of horse; he was in at all games in the Ci<g ref="char:EOLhyphen"/>ty; and played so well, that the chief Gamesters would not leave him nor his good brother <hi>Tich<g ref="char:EOLhyphen"/>burn</hi> out of their Committee of Safety, who were to give aim to them against the City.</p>
+            <p>
+               <hi>Iohn Fenton,</hi> at first a Tagger of points, then a Buttonseller, and when better trading came on, he went out with some Voluntiers against the King to <hi>Redding,</hi> where he behaved himself so well, that he was: made Treasurer by <hi>Essex,</hi> but lost his accompt, being frighted at <hi>Brandford</hi> or <hi>Kingston;</hi> was afterwards a Lieutenant Colonell, and thrive so well, that he bought a great part of the Petty Cannons Garden, and other Land about <hi>Pauls,</hi> and built on it many Houses, where he hath scrued and racked his Tenants ever since.</p>
+            <p>
+               <hi>Philip Skippon</hi> Major Generall of the Army under the Earl of <hi>Essex,</hi> worth 365 l. <hi>per annum;</hi> and Major Generall of the City of <hi>London,</hi> worth as 'tis supposed 6<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>6 l. 13 s. 4 d. <hi>per annum,</hi> according to his Brethrens Salary that were then Major Generall of the Counties; Captain of the Artillery Garden <hi>London,</hi> one of the Prote<g ref="char:EOLhyphen"/>ctors Lords of his Privy Councell worth 1000 l. <hi>per annum,</hi> who hath also much improved his Tallent by purchasing a vast estate at very cheap rates.</p>
+            <p>
+               <hi>Martin Noell</hi> a Scrivener, <hi>Thurlo'es</hi> partner in the Post Office. This man (besides other base acti<g ref="char:EOLhyphen"/>ons under that cruell Tyrant <hi>Cromwell</hi>) sold a great number of honest people of this Nation,
+<pb n="48" facs="tcp:115248:28"/>(who had been in the <hi>Salisbury</hi> Insurrection) for perpetuall slaves to the <hi>Indies</hi> and other where; and yet he lives, and pretends to Religion. He was at first us'd to go about to <hi>Cock-matches</hi> and <hi>Horse-races</hi> to lend money according to his trade, the brokage being highest on such occasions; la<g ref="char:EOLhyphen"/>tely he was a great Publican in the Customes &amp; Excise, but when the Rump returned to their old seats he was turned out, and posted up upon the Exchange, (I believe, not for his honesty.) How<g ref="char:EOLhyphen"/>ever <hi>viis &amp; modis</hi> he ha's gotten a great Estate, both in <hi>England</hi> and the <hi>Indies:</hi> no doubt, he is a great Saint, and ought to enjoy the possessions of the Earth.</p>
+            <p>
+               <hi>Green</hi> at first a Gold-smith, Secretary to the Committee at <hi>Worcester-House,</hi> hath got a vast E<g ref="char:EOLhyphen"/>state by buying and selling of Debenters.</p>
+            <p>
+               <hi>Samuel Moyor</hi> at first a poor Cabbin-boy, afterward a well known chairman in Haber<g ref="char:EOLhyphen"/>dashers Hall to most of this Kingdome, a sworne servant to the Rump, a notorious Sectarian, and in at all Games.</p>
+            <p>Dr. <hi>Walker</hi> Advocat to the Commonwealth, and these many years accounted a ci-villain; he with his two procters, <hi>Suckling</hi> &amp; <hi>Frankling</hi> were well experienced in condemning the Dutch Pri<g ref="char:EOLhyphen"/>zes, where each one of them could get 1000 l. for his share in a morning. For whatsoever these two eager hunters could discover, the third be<g ref="char:EOLhyphen"/>ing Advocate would certainly have it condemned as prize, by which means they have each of them gotten very great Estates both in Land and money.</p>
+            <pb n="49" facs="tcp:115248:28"/>
+            <p>
+               <hi>Nathaniel Campfield</hi> Lieutenant Collonel.</p>
+            <p>
+               <hi>Richard Chiverton</hi> a receiver of one <hi>per Cent</hi> of Merchants goods for redemption of captives.</p>
+            <p>
+               <hi>Richard Hill</hi> (likewise) a receiver of one <hi>per Cent.</hi> of Merchants goods, for redemption of captives and a Commissioner for sale of prize goods, and was called to account by his Master before his partners and he were ready.</p>
+            <p>
+               <hi>Stephen Estwick</hi> a Trustee for sale of Bishops Lands, formerly a Commissioner for the Cu<g ref="char:EOLhyphen"/>stomes, one of the City Militia, and go ta great Estate since the long Parliament began.</p>
+            <p>
+               <hi>Iames Russell</hi> a Trustee for the sale of Bishops Lands, one of the City Militia, formerly a Com<g ref="char:EOLhyphen"/>missioner for the Customes.</p>
+            <list>
+               <item>
+                  <hi>Iohn Bellamy.</hi>
+               </item>
+               <item>
+                  <hi>Thom. Arnold.</hi>
+               </item>
+               <item>
+                  <hi>Rich. Glide.</hi>
+               </item>
+               <item>
+                  <hi>Io. Babbington.</hi>
+               </item>
+               <item>
+                  <hi>Rich. Venner</hi> Capt.</item>
+               <item>
+                  <hi>Rob. Meade.</hi>
+               </item>
+               <item>
+                  <hi>Iam. Story.</hi>
+               </item>
+               <item>
+                  <hi>Will. Antrobus.</hi>
+               </item>
+               <item>
+                  <hi>Rich. Turner.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Bromfield.</hi>
+               </item>
+               <item>
+                  <hi>Edw. Bellamy.</hi>
+               </item>
+               <item>
+                  <hi>Hugh Norris.</hi>
+               </item>
+               <item>
+                  <hi>Nath. Hall.</hi>
+               </item>
+               <item>
+                  <hi>Peter Iones.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Hayes.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Blackwell</hi> Treasu<g ref="char:EOLhyphen"/>rer at Weavers-Hall.</item>
+            </list>
+            <p>All Trustees for sale of Bishops Lands.</p>
+            <p>These were all Common Councill-men, and had such imployments as thou seest and have be<g ref="char:EOLhyphen"/>sides been doublers of loane moneys, and buyers of others loanes at 9 s. &amp; 10 s. <hi>per</hi> pound, received their full interest at 8 s. <hi>per Cent</hi> out of the Excise, and their principle in good penny worths out of Bishops Lands, buying 6000 l. worth of Land, for 1000 l. in Arrears or loane money which they
+<pb n="50" facs="tcp:115248:29"/>bought for 4 or 500 l. benefit, which bargains were so many and so great both to Parliament men, Souldiers and Citizens, as 'tis no wonder they cared not for admitting of any offer to re<g ref="char:EOLhyphen"/>pay them the purchase money, and preserve the Church Lands for Church maintenance, but would rather ('tis to be feared) have continued the Army, Excise, Taxes their imployment and our Ruine, which God forbid.</p>
+            <p>
+               <hi>Iohn Stone</hi> sometimes a Haberdasher in Friday street <hi>London,</hi> who was a zealous Common Coun<g ref="char:EOLhyphen"/>cellman and Captain under <hi>Tichborn,</hi> and in some of <hi>Olwer</hi>'s Parliaments, who carried the matter so well that he was preferred to be one of the Tel<g ref="char:EOLhyphen"/>lers in the Exchequer worth 500 l. <hi>per annum,</hi> be<g ref="char:EOLhyphen"/>sides other fees: Receiver Generall of the Taxes, worth 400 l. <hi>per annum,</hi> Controuler of the Excise and Customes worth 400 l. <hi>per annum:</hi> a Com<g ref="char:EOLhyphen"/>missioner at the Wine Office, and one of the Com<g ref="char:EOLhyphen"/>mittee of the Army, in all which places he thrived so well that he hath purchased many hundreds <hi>per annum,</hi> and a good summe in his purse lying by him upon all occasions.</p>
+            <p>
+               <hi>Thomus Kelsey</hi> of a mean trade in Birchin-Lane: and not thriving of that, betook himself to the wars whereby his zeale to the cause advanced him to be a Lieutenant Coll. and a creature of <hi>Oliver</hi>'s, who made him a Commissioner of the Admiralty worth 500 l. <hi>per annum,</hi> and one of the Major Generals of two Counties, whose salary for one County was 666 l. 13 s. 4 d. <hi>per annum</hi> be<g ref="char:EOLhyphen"/>sides Governour of <hi>Dover</hi> Castle.</p>
+            <p>
+               <hi>Will. Steel</hi> at first a young practitioner in the
+<pb n="51" facs="tcp:115248:29"/>Law and used Guild-Hall: about the beginning of the Wars was chosen one of the City Counsell: and great Chairman of that all devouring Com<g ref="char:EOLhyphen"/>mittee at Cambden-House, where he demeaned himself so well that he should have been Counsell with <hi>Cook</hi> and <hi>Dorislaus</hi> for managing the charge against his Soveraign, but it was his good hap to fall sick (as 'tis reported) of the small pox just at the instant: however he was afterwards made Re<g ref="char:EOLhyphen"/>corder of <hi>London:</hi> then Lord chief. Baron of the Ex<g ref="char:EOLhyphen"/>chequer, and continued so, untill sent by his good Lord <hi>Oliver,</hi> Lord Chancellor of <hi>Ireland,</hi> where he remained untill he was sent for to be one of the 23. great Governours of this Nation in the Com<g ref="char:EOLhyphen"/>mittee of <hi>Safety,</hi> in all which employments he was very active and as true as <hi>Steel.</hi>
+            </p>
+            <p>
+               <hi>Iosias Bernars</hi> of <hi>Clarkenwell,</hi> formerly a ser<g ref="char:EOLhyphen"/>ving man. <hi>Bradshaws</hi> second and <hi>Haselrigs</hi> right eye, and ever as envious and fierce as either: was as forward for the ruine of the King and pro<g ref="char:EOLhyphen"/>moting the High Court of Iustice, both for the Tryall of the King and Dr. <hi>Hewit,</hi> though, by the continuall prayers and tears of his wife he sate in neither, yet his zeal was never the lesse, and so hath continued all the Rumps time, with that height of zeal against his Majesty, that he was one of the 16. Abjurators, which in all ho<g ref="char:EOLhyphen"/>nest mens judgement is as dangerous to his Ma<g ref="char:EOLhyphen"/>jesty and Kingdomes, as any thing possibly can be, and not in justice to be pardoned.</p>
+            <p>☞ <hi>William Goffe</hi> a Salter in <hi>London,</hi> whose time being newly out, betook himself to the Cause, went out a Quarter-master, and continued in the
+<pb n="52" facs="tcp:115248:30"/>Warres untill he had got what he fought for; and in time became a Colonel, and in appearance a very zealous devout man, much like his master <hi>Oliver,</hi> who sought after Greatnesse, Soveraign<g ref="char:EOLhyphen"/>ty, and Power; and praise of men, more then of God; as by their actions, and our woeful experience too manifestly appeared, by his complying with the Protectors Designes and In<g ref="char:EOLhyphen"/>terests, got himself to be made Major Generall of <hi>Sussex</hi> and <hi>Hampshire,</hi> which was worth 1200l. <hi>perannum</hi> or what he pleased to make it, was of some of the mock-Parliaments, advanced his estate greatly, he was thought worthy to be in <hi>Lamberts</hi> place, and command, of Major Gene<g ref="char:EOLhyphen"/>rall of the Army, and no doubt aimed to be Protector as <hi>Lambert</hi> did, was one of the Lords in the other House, and one of his Soveraigns cruell Iudges.</p>
+            <p>☞ <hi>Tho. Horton,</hi> in his extraction very despi<g ref="char:EOLhyphen"/>cable, who after he had been servant and Faul<g ref="char:EOLhyphen"/>coner to Sir <hi>Arthur Haselrig</hi> lured fairly and percht on a Regiment of horse. A person of so little note that few knew whence he came or whi<g ref="char:EOLhyphen"/>ther he went, unlesse to the internall Region, having sate as one of the Kings Iudges, and be<g ref="char:EOLhyphen"/>ing of Anarchicall and pernicious principles to Kingly power.</p>
+            <p>☞ <hi>Tho. Scot</hi> by birth, son of a mean Brewer, and by adoption a Brewers Clark of <hi>London;</hi> who by being transplanted to <hi>Alisbury</hi> grew up to the Stature of a Sollicitor or Attorney. A little sneak<g ref="char:EOLhyphen"/>ing fellow, but a great lover of mischief, who closing in with our first divisions helpt to widen
+<pb n="53" facs="tcp:115248:30"/>them. A great pretender to piety, but much be<g ref="char:EOLhyphen"/>lieved to be of a loose and lascivious life, having been said to have had the grincums. A diligent searcher after, seizer and suppresser of the Kings Books, or any thing written in his favour. A ter<g ref="char:EOLhyphen"/>rible man for a Commonwealth, having been a long Rumper, and Secretary to the Councill of State, having been one of the Kings Iudges and most impudently glorying, that when he was dead he desired no other Tombe, or inscription then this, <hi>Here lies</hi> Tho. Scot, <hi>one of the late Kings Triers.</hi>
+            </p>
+         </div>
+         <div type="list">
+            <pb n="54" facs="tcp:115248:31"/>
+            <head>The Names of the Militia of the City of <hi>London</hi> constituted by the Rump Iuly 7. 1659.</head>
+            <list>
+               <item>Alderman <hi>Ireton Mayor.</hi>
+               </item>
+               <item>The 2. Sheriffs for the time being.</item>
+               <item>Major <hi>Richard Salwey.</hi>
+               </item>
+               <item>Major <hi>Philip Skippon.</hi>
+               </item>
+               <item>
+                  <hi>Isaac Pennington</hi> Esq;</item>
+               <item>Alderman <hi>Atkin.</hi>
+               </item>
+               <item>Alderman <hi>Andrews.</hi>
+               </item>
+               <item>Alderman <hi>Foot.</hi>
+               </item>
+               <item>Alderman <hi>Fowke.</hi>
+               </item>
+               <item>Alderman <hi>Dethick,</hi>
+               </item>
+               <item>Alderman <hi>Tichburn.</hi>
+               </item>
+               <item>Alderman <hi>Thom. Allen.</hi>
+               </item>
+               <item>Alderman <hi>Thompson.</hi>
+               </item>
+               <item>Alderman <hi>Milner.</hi>
+               </item>
+               <item>Alderman <hi>Love.</hi>
+               </item>
+               <item>Alderman <hi>Vincent.</hi>
+               </item>
+               <item>Alderman <hi>Lawrence.</hi>
+               </item>
+               <item>Ald. <hi>Anth. Bateman.</hi>
+               </item>
+               <item>Mr. <hi>Nich. Gold.</hi>
+               </item>
+               <item>Mr. <hi>Sam. Moyer.</hi>
+               </item>
+               <item>Coll. <hi>Io. Okey.</hi>
+               </item>
+               <item>Mr. <hi>Iames Rand.</hi>
+               </item>
+               <item>Coll. <hi>Owen.</hi>
+               </item>
+               <item>Coll. <hi>VVill. VVeb.</hi>
+               </item>
+               <item>Mr. <hi>Rob. Offley.</hi>
+               </item>
+               <item>Mr. <hi>Theophilus Biddulph.</hi>
+               </item>
+               <item>Coll. <hi>Owen Roc.</hi>
+               </item>
+               <item>Coll. <hi>Math. Shepheard.</hi>
+               </item>
+               <item>Lieutenant Coll. <hi>Io. Fen<g ref="char:EOLhyphen"/>ton.</hi>
+               </item>
+               <item>Mr. <hi>Praise God Barebone.</hi>
+               </item>
+               <item>Mr. <hi>Lieny Brandrith.</hi>
+               </item>
+               <item>Mr. <hi>Io. Iack son.</hi>
+               </item>
+               <item>Captain <hi>Kiffin.</hi>
+               </item>
+               <item>Capt. <hi>Hen. Par.</hi>
+               </item>
+               <item>Mr. <hi>Humph. Cēiffe.</hi>
+               </item>
+               <item>Capt. <hi>Io. Marriot.</hi>
+               </item>
+               <item>Mr. <hi>VVill. Iolly.</hi>
+               </item>
+               <item>Capt. <hi>Ostler.</hi>
+               </item>
+               <item>Capt. <hi>Rob. Malley.</hi>
+               </item>
+               <item>Mr. <hi>Nicholas Skinner.</hi>
+               </item>
+               <item>
+                  <hi>Stephen Iles.</hi>
+               </item>
+               <item>Lieutenant Coll. <hi>Charles Doily.</hi>
+               </item>
+               <item>Major <hi>Thomas Randoll.</hi>
+               </item>
+               <item>Major <hi>Blunt Sadler.</hi>
+               </item>
+               <item>Mr. <hi>Ioseph Subley.</hi>
+               </item>
+               <item>Mr. <hi>Tho. Benson.</hi>
+               </item>
+               <item>Mr. <hi>Hugh Mason.</hi>
+               </item>
+               <item>Mr. <hi>Edw. Raddon.</hi>
+               </item>
+               <item>Mr. <hi>Slingsby Bethell.</hi>
+               </item>
+               <pb n="95" facs="tcp:115248:31"/>
+               <item>Mr. <hi>Lippington.</hi>
+               </item>
+               <item>Capt. <hi>Blenner Hassell.</hi>
+               </item>
+               <item>
+                  <hi>Richard Downes.</hi>
+               </item>
+               <item>Capt. <hi>Will. Meade.</hi>
+               </item>
+               <item>Capt. <hi>Nich. Roberts.</hi>
+               </item>
+               <item>Mr. <hi>Nich. Iuxon.</hi>
+               </item>
+               <item>Mr. <hi>Edw. Bushell.</hi>
+               </item>
+               <item>Mr. <hi>Will. Dashwood.</hi>
+               </item>
+               <item>Mr. <hi>Geo. Coney.</hi>
+               </item>
+               <item>Major <hi>Io. Childe.</hi>
+               </item>
+               <item>
+                  <hi>Methusa. Turner.</hi>
+               </item>
+               <item>
+                  <hi>Will. Smith.</hi>
+               </item>
+               <item>
+                  <hi>Richard Eccleston.</hi>
+               </item>
+               <item>
+                  <hi>Will. Zanckey.</hi>
+               </item>
+               <item>Major <hi>Rob. Russell.</hi>
+               </item>
+               <item>
+                  <hi>Geo. Gosfright.</hi>
+               </item>
+               <item>
+                  <hi>Sam. Sonthen.</hi>
+               </item>
+               <item>
+                  <hi>Deputy Campfield.</hi>
+               </item>
+               <item>
+                  <hi>Will. Allin.</hi>
+               </item>
+               <item>Lieutenant Coll. <hi>Rob. Price.</hi>
+               </item>
+               <item>Lieut. Coll. <hi>Foach.</hi>
+               </item>
+               <item>Lieut. Coll. <hi>Ioh. Mew.</hi>
+               </item>
+               <item>Capt. <hi>Tho. Bource.</hi>
+               </item>
+               <item>Capt. <hi>Stephen Hemberey.</hi>
+               </item>
+               <item>Capt. <hi>Oram.</hi>
+               </item>
+               <item>Major <hi>Will. Clement.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Arnold</hi> Esq;</item>
+               <item>
+                  <hi>Henry Barton.</hi>
+               </item>
+               <item>Mr. <hi>Ioseph Holden.</hi>
+               </item>
+               <item>Capt. <hi>Io. Owen.</hi>
+               </item>
+               <item>Major <hi>Iervoise Blac<g ref="char:EOLhyphen"/>well.</hi>
+               </item>
+               <item>Capt. <hi>Edw. Storey.</hi>
+               </item>
+               <item>Mr. <hi>Abraham Babbing<g ref="char:EOLhyphen"/>ton.</hi>
+               </item>
+               <item>Mr. <hi>Iames Hughes.</hi>
+               </item>
+               <item>
+                  <hi>Richard Arnold.</hi>
+               </item>
+               <item>Mr. <hi>Clement Ireton.</hi>
+               </item>
+               <item>Mr. <hi>Iohn Lawson.</hi>
+               </item>
+               <item>Mr. <hi>Will. Harrington.</hi>
+               </item>
+               <item>Lieutenant Coll. <hi>Will-Puckle.</hi>
+               </item>
+               <item>
+                  <hi>Rich. Waring</hi> Esq;</item>
+               <item>
+                  <hi>Will. Pennoyer</hi> Esq;</item>
+               <item>
+                  <hi>Robert Barrot.</hi>
+               </item>
+               <item>
+                  <hi>Nath. Manton.</hi>
+               </item>
+               <item>Mr. <hi>Ross.</hi>
+               </item>
+               <item>Coll. <hi>Gower.</hi>
+               </item>
+               <item>Capt. <hi>Io. Hinde.</hi>
+               </item>
+               <item>Mr. <hi>Rich. Baker.</hi>
+               </item>
+               <item>Col. <hi>Geo Langham.</hi>
+               </item>
+               <item>Mr. <hi>Iohn Langley.</hi>
+               </item>
+               <item>Mr. <hi>Alexand. Lawson.</hi>
+               </item>
+               <item>Capt. <hi>Morse Coe.</hi>
+               </item>
+               <item>Mr. <hi>Tho. Lenthall.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="appointment">
+            <pb n="56" facs="tcp:115248:32"/>
+            <opener>
+               <dateline>
+                  <date>The 26. October 1659.</date>
+               </dateline>
+            </opener>
+            <p>The generall Councell of Officers out of their Princely care for the set tlement of the Nations committed to their charge nominated, appointed and constituted these their trusty and well-beloved persons following to be a Committee of Safety, and that they doe consider of a form of Government to be established: and that they may as occasion shall require take advice con<g ref="char:EOLhyphen"/>cerning it with the principall Officers of the Ar<g ref="char:EOLhyphen"/>my, and such other persons as they shall think fit, likewise that the time limited for bringing in the said form of civill Government be six weeks: viz.</p>
+            <list>
+               <item>The Lord <hi>Fleetwood.</hi>
+               </item>
+               <item>The Lord <hi>Lambert.</hi>
+               </item>
+               <item>Generall <hi>Disborow.</hi>
+               </item>
+               <item>The Lord Chancellor <hi>Steel.</hi>
+               </item>
+               <item>The Lord <hi>VVhitlock.</hi>
+               </item>
+               <item>Sir <hi>Hen. Vane.</hi>
+               </item>
+               <item>Lieuten. Gen. <hi>Ludlow.</hi>
+               </item>
+               <item>Coll. <hi>Sydenham.</hi>
+               </item>
+               <item>Major <hi>Salway.</hi>
+               </item>
+               <item>Coll. <hi>Berry.</hi>
+               </item>
+               <item>The Lord <hi>Strickland.</hi>
+               </item>
+               <item>The Lord <hi>Lawrence.</hi>
+               </item>
+               <item>Sir <hi>Iames Harrington.</hi>
+               </item>
+               <item>Lord <hi>VVareston.</hi>
+               </item>
+               <item>Lord Major <hi>Ireton.</hi>
+               </item>
+               <item>Lord <hi>Tichborn.</hi>
+               </item>
+               <item>Mr. <hi>Henry Brandrith.</hi>
+               </item>
+               <item>Mr. <hi>Robert Thompson.</hi>
+               </item>
+               <item>Lord <hi>Hewson.</hi>
+               </item>
+               <item>Coll. <hi>Clark.</hi>
+               </item>
+               <item>Coll. <hi>Lilburn.</hi>
+               </item>
+               <item>Coll. <hi>Bennet.</hi>
+               </item>
+               <item>
+                  <hi>Cornelius Holland.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:115248:32"/>
+            <head>Postscript.</head>
+            <p>WHat is defective in this small Tract, shall be more fully supplied in the second Edition. As for the Names and method in this piece it must be confessed there may be some little mistakes, it being the designe rather to observe the reality of the matter, then the nice circum<g ref="char:EOLhyphen"/>stances of form; If any materiall errours have escaped, upon further enquiry and better information, they shall be amended.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
